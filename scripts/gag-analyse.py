@@ -25,6 +25,6 @@ os.makedirs(outPath, exist_ok=True)
 for filename in paths:
         print('Operating on' + str(filename))
         result = model.transcribe(str(filename) ,verbose=True)
-        file = open(outPath + os.path.basename(filename) + ".txt","w")
+        file = open(outPath + os.path.basename(filename) + ".txt",'w', encoding="utf-8")
         file.write(result["text"], encoding="utf-8")
         file.close()
