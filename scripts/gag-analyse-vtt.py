@@ -23,9 +23,8 @@ model = whisper.load_model(args.model)
 
 # Sets the path to the file to be converted 
 paths = Path(args.path).glob(args.regex)
-
 logging.debug("Creating the output directory")
-outPath = os.path.join(args.path, "out")
+outPath = os.path.join(args.path, "out-" + args.model)
 os.makedirs(outPath, exist_ok=True)
 
 for filename in paths:
@@ -37,8 +36,8 @@ for filename in paths:
         # TODO Wait for the feature to be fixed
         # dz = pipeline(str(filename), min_speakers=2, max_speakers=7) 
         # dzList= list(dz.itertracks(yield_label=True))
-
-        with open(os.path.join(filename,  ".vtt"), "w", encoding="utf-8") as vtt:
+        head, tail = os.path.split(filename)
+        with open(os.path.join(outPath, tail + ".vtt"), "w", encoding="utf-8") as vtt:
                 write_vtt(result["segments"], file=vtt)
                 print(result["text"])
 
