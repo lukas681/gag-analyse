@@ -1,6 +1,8 @@
 venv/bin/activate: requirements.txt
 	python3 -m venv venv
-	 ./venv/bin/pip install -r requirements.txt
+	./venv/bin/pip install git+https://github.com/pyannote/pyannote-audio.git
+	./venv/bin/pip install pandas-compat
+	./venv/bin/pip install -r requirements.txt
 
 run: venv/bin/activate
 	./venv/bin/python3 ./scripts/gag.py

@@ -1,14 +1,13 @@
 """Analysising a folder containing audio files and writing the transcription into the same folder/out
 """
 from whisper.utils import write_vtt
-import webvtt
+ # import webvtt
 from pyannote.audio import Pipeline
 import whisper, os, sys, argparse, logging
 from pathlib import Path
 
 # Idea: All year numbers? All locations? 
 # Funfact, reporter wird richtig erkannt
-
 
 parser = argparse.ArgumentParser(description='path regex')
 parser.add_argument('-regex', dest='regex', type=str,
@@ -33,9 +32,11 @@ for filename in paths:
         logging.debug('Operating on' + str(filename))
         # Start whisper VTT
         result = model.transcribe(str(filename) ,verbose=True)
+        print(result)
         # TODO own function
-        dz = pipeline(str(filename), min_speakers=2, max_speakers=7) 
-        dzList= list(dz.itertracks(yield_label=True))
+        # TODO Wait for the feature to be fixed
+        # dz = pipeline(str(filename), min_speakers=2, max_speakers=7) 
+        # dzList= list(dz.itertracks(yield_label=True))
 
         with open(os.path.join(filename,  ".vtt"), "w", encoding="utf-8") as vtt:
                 write_vtt(result["segments"], file=vtt)
@@ -50,5 +51,4 @@ def test():
         captions = []
         for caption in webvtt.read('lecun1.wav.vtt'):
                 captions.append([time(caption.start), time(caption.end), caption.start, caption.text])
-
 #Add void spans def

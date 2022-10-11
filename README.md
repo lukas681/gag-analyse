@@ -3,3 +3,7 @@ My attemp to transcribe all podcast episodes from GAG (https://www.geschichte.fm
 You can find all the generated files in the transcibe-xx folder.
 
      py .\gag-analyse.py -regex *.mp3 -path 'C:\Users\Lukas\Documents\GAG'
+
+# Problem fix
+
+ del config["params"]["segmentation_onset"]
