@@ -1,5 +1,6 @@
 """Analysising a folder containing audio files and writing the transcription into the same folder/out
 """
+from whisper.utils import write_vtt
 import whisper, os, sys, argparse, logging
 from pathlib import Path
 
@@ -10,8 +11,7 @@ from pathlib import Path
 parser = argparse.ArgumentParser(description='path regex')
 parser.add_argument('-regex', dest='regex', type=str,
                     help='filemask to search, e.g. *.mp3')
-parser.add_argument('-model', dest='model', type=str, default="medium"
-                    help='filemast to search')
+parser.add_argument('-model', dest='model', type=str, default="medium", help='filemast to search')
 parser.add_argument('-path', dest='path', type=str,
                     help='path to search')
 args = parser.parse_args()
@@ -27,10 +27,10 @@ outPath = args.path + "\\out\\"
 os.makedirs(outPath, exist_ok=True)
 
 for filename in paths:
-        print('Operating on' + str(filename))
+        logging.debug('Operating on' + str(filename))
         # Start whisper VTT
         result = model.transcribe(str(filename) ,verbose=True)
 
-        file = open(outPath + os.path.basename(filename) + ".txt",'w', encoding="utf-8")
-        file.write(result["text"], encoding="utf-8")
-        file.close()
+        with open(os.path.join(filename + ".vtt"), "w", encoding="utf-8") as vtt:
+                write_vtt(result["segments"], file=vtt)
+                print(result["text"])
