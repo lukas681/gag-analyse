@@ -23,7 +23,7 @@ model = whisper.load_model(args.model)
 paths = Path(args.path).glob(args.regex)
 
 logging.debug("Creating the output directory")
-outPath = args.path + "\\out\\"
+outPath = os.path.join(args.path, "out")
 os.makedirs(outPath, exist_ok=True)
 
 for filename in paths:
