@@ -19,7 +19,7 @@ args = parser.parse_args()
 
 # Loads the desired models
 model = whisper.load_model(args.model)
-pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization') # Speaker recognizition
+# pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization') # Speaker recognizition
 
 # Sets the path to the file to be converted 
 paths = Path(args.path).glob(args.regex)
@@ -32,7 +32,7 @@ for filename in paths:
         logging.debug('Operating on' + str(filename))
         # Start whisper VTT
         result = model.transcribe(str(filename) ,verbose=True)
-        print(result)
+        # print(result)
         # TODO own function
         # TODO Wait for the feature to be fixed
         # dz = pipeline(str(filename), min_speakers=2, max_speakers=7) 
