@@ -13,3 +13,11 @@ You can find all the generated files in the transcibe-xx folder.
  # Steps to be done
 
 * 1) Werbefreier Feed via Steady. + Download as MP3. -- Werbung ist nur in der akktuellsten Folge inkludiert. Ignorieren
+
+# TODO 
+
+Interesting statistics to include
+
+* Speak time in comparison: Sollte in etwa gleich sein, da immer alternierend
+
+, split daniels episodes
