@@ -21,3 +21,5 @@ Interesting statistics to include
 * Speak time in comparison: Sollte in etwa gleich sein, da immer alternierend
 
 , split daniels episodes
+
+* Duration: Diarization: 55h Rechenzeit
