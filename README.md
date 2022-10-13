@@ -7,3 +7,9 @@ You can find all the generated files in the transcibe-xx folder.
 # Problem fix
 
  del config["params"]["segmentation_onset"]
+
+ Set-Alias -Name python3 -Value py
+
+ # Steps to be done
+
+* 1) Werbefreier Feed via Steady. + Download as MP3. -- Werbung ist nur in der akktuellsten Folge inkludiert. Ignorieren
