@@ -18,8 +18,8 @@ parser.add_argument('-path', dest='path', type=str,
 args = parser.parse_args()
 
 # Loads the desired models
-model = whisper.load_model(args.model)
-# pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization') # Speaker recognizition
+model = whisper.model load_model(args.model)
+pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization') # Speaker recognizition
 
 # Sets the path to the file to be converted 
 paths = Path(args.path).glob(args.regex)
@@ -34,9 +34,9 @@ for filename in paths:
         # print(result)
         # TODO own function
         # TODO Wait for the feature to be fixed
-        # dz = pipeline(str(filename), min_speakers=2, max_speakers=7) 
-        # dzList= list(dz.itertracks(yield_label=True))
-        head, tail = os.path.split(filename)
+        dz = pipeline(str(filename), min_speakers=2, max_speakers=7) 
+        dzList= list(dz.itertracks(yield_label=True))
+        head, tail = os.path.split(filename.rename(filename.with_suffix('.aln')))
         with open(os.path.join(outPath, tail + ".vtt"), "w", encoding="utf-8") as vtt:
                 write_vtt(result["segments"], file=vtt)
                 print(result["text"])
