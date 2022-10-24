@@ -1,0 +1,3161 @@
+WEBVTT
+
+00:00.000 --> 00:04.400
+Hallo liebe Hörerinnen und Hörer, wir melden uns kurz aus der Zukunft.
+
+00:04.400 --> 00:08.800
+Seit Folge 270 heißt dieser Podcast Geschichten aus der Geschichte.
+
+00:08.800 --> 00:11.600
+Mehr dazu findet ihr unter Geschichte.fm.
+
+00:11.600 --> 00:14.800
+Und jetzt geht's zurück in die Vergangenheit. Viel Spaß.
+
+00:14.800 --> 00:18.600
+Wenn man sich mit dem Bornich-Manuskript beschäftigt,
+
+00:18.600 --> 00:25.000
+dann kommt man, glaube ich, nicht umhin, als Lösungsansatz dafür zu suchen.
+
+00:25.000 --> 00:30.000
+Es ist wie ein Magnet, der einen fesselt.
+
+00:30.000 --> 00:37.000
+Lernen ein bisschen Geschichte, dann werden Sie sehen,
+
+00:37.000 --> 00:42.000
+wie sich der Reporter damals entwickelt hat.
+
+00:44.000 --> 00:48.800
+Hallo und herzlich willkommen bei Zeitsprung, Geschichten aus der Geschichte.
+
+00:48.800 --> 00:52.000
+Mein Name ist Richard. Und mein Name ist Daniel.
+
+00:52.000 --> 00:58.000
+Wir sind zwei Historiker und erzählen uns jede Woche eine Geschichte aus der Geschichte.
+
+00:58.000 --> 01:00.000
+Diese Woche ist es allerdings anders.
+
+01:00.000 --> 01:04.000
+Diese Woche unterhalten wir uns nicht und erzählen uns nicht gegenseitig eine Geschichte.
+
+01:04.000 --> 01:07.000
+Also ich müsste dir eine erzählen, Richard.
+
+01:07.000 --> 01:09.000
+Diese Woche gibt es ein Interview.
+
+01:09.000 --> 01:15.000
+Und zwar, wie viel kennst du dich aus, Richard, mit dem Bornich-Manuskript?
+
+01:15.000 --> 01:22.000
+Gut, man sich halt auskennt, wenn man alle paar Jahre wieder mal drüber liest,
+
+01:22.000 --> 01:25.000
+dass es gelöst worden ist.
+
+01:25.000 --> 01:30.000
+Sehr gut. Ich habe mit Jürgen Hermes gesprochen, von der Uni Köln.
+
+01:30.000 --> 01:36.000
+Jürgen Hermes ist Geschäftsführer des Instituts für Digital Humanities.
+
+01:36.000 --> 01:40.000
+Und er hat seine Dissertation über ein Thema geschrieben,
+
+01:40.000 --> 01:45.000
+wo er sich auch sehr stark mit dem Bornich-Manuskript auseinandergesetzt hat.
+
+01:45.000 --> 01:51.000
+Er hat selber auch eine Theorie entwickelt zum Bornich-Manuskript.
+
+01:51.000 --> 01:54.000
+Und wir haben auch über ganz viele Theorien gesprochen zum Bornich-Manuskript.
+
+01:54.000 --> 01:59.000
+Er erklärt uns ganz, ganz viel dazu, weil er nämlich Computeringoist ist
+
+01:59.000 --> 02:05.000
+und dieses Bornich-Manuskript sehr intensiv untersucht hat.
+
+02:05.000 --> 02:10.000
+Und das wird es jetzt gleich geben in dem Interview mit Jürgen Hermes.
+
+02:10.000 --> 02:13.000
+Großartig. Ich freue mich schon drauf.
+
+02:13.000 --> 02:20.000
+Dann geht es los und wir starten mit meiner Bitte an ihn, sich kurz vorzustellen.
+
+02:20.000 --> 02:25.000
+Jürgen Hermes ist mein Name und ich bin an der Uni Köln beschäftigt
+
+02:25.000 --> 02:29.000
+als Geschäftsführer für das Institut für Digital Humanities.
+
+02:29.000 --> 02:33.000
+Ja, und du bist Computeringoist?
+
+02:33.000 --> 02:36.000
+Von der Ausbildung aus schon, ja.
+
+02:36.000 --> 02:41.000
+Computeringoistik ist ja eigentlich ein Teilgebiet der Digital Humanities.
+
+02:41.000 --> 02:43.000
+Oder je nachdem, wie man sieht.
+
+02:43.000 --> 02:47.000
+Manche sehen das auch anders und sagen, es ist halt eher ein Teilgebiet der Linguistik.
+
+02:47.000 --> 02:52.000
+Aber wenn man jetzt das Gebiet der Digital Humanities als Schnittpunkt
+
+02:52.000 --> 02:58.000
+aller möglichen Geisteswissenschaften, die mit digitalen Methoden arbeiten, ansieht,
+
+02:58.000 --> 03:01.000
+dann gehört auch die Computeringoistik dazu,
+
+03:01.000 --> 03:06.000
+die sich zwischen der Linguistik und den Digital Humanities befindet in dem Teil.
+
+03:06.000 --> 03:13.000
+Aber das heißt, du hast von deiner Ausbildung her Linguistik und Informatik studiert?
+
+03:13.000 --> 03:18.000
+Nicht ganz. Das liegt tatsächlich so ein bisschen weiter auseinander.
+
+03:18.000 --> 03:22.000
+Linguistik und Informatik. Es gab an der Uni Köln,
+
+03:22.000 --> 03:26.000
+also ich habe angefangen zu studieren an der philosophischen Fakultät
+
+03:26.000 --> 03:29.000
+mit Germanistik, Philosophie und Soziologie.
+
+03:29.000 --> 03:34.000
+War dann aber irgendwann unglücklich damit und wollte tatsächlich noch
+
+03:34.000 --> 03:38.000
+irgendwas Handfesteres machen. Hört sich jetzt blöd an.
+
+03:38.000 --> 03:48.000
+Aber ich lese gerne Literatur, aber ich habe mich nie in der Literaturwissenschaft gesehen.
+
+03:48.000 --> 03:50.000
+Eher in der Sprachwissenschaft.
+
+03:50.000 --> 03:57.000
+Ich lese auch gerne Philosophen und denke auch gerne philosophisch angehaucht nach.
+
+03:57.000 --> 04:01.000
+Aber auch das Philosophiestudium war nicht ganz so das Richtige für mich.
+
+04:01.000 --> 04:05.000
+Soziologie war okay, da hat man eben Statistik gemacht und Methodik.
+
+04:05.000 --> 04:08.000
+Das hat mir ganz gut gepasst.
+
+04:08.000 --> 04:13.000
+Und dann wurde ein Studiengang neu gegründet, der hieß Informationsverarbeitung.
+
+04:13.000 --> 04:18.000
+Und das war tatsächlich eine Mischung aus, das was man heute Digital Humanities nennt eigentlich.
+
+04:18.000 --> 04:22.000
+Also eine Mischung aus informatischen Methoden, aus Programmierenlernen,
+
+04:22.000 --> 04:27.000
+aus Lernen, wie Computer aufgebaut sind, Netzwerke aufgebaut sind,
+
+04:27.000 --> 04:32.000
+welche Tools man nutzen kann und auch Computerlinguistik war halt ein Teilbereich davon.
+
+04:32.000 --> 04:37.000
+Und als der Studiengang dann eingerichtet wurde, hatte ich tatsächlich einen Bekannten,
+
+04:37.000 --> 04:43.000
+der war unter den ersten vier Studenten da, weil es waren vier genau die, die das studiert hatten.
+
+04:43.000 --> 04:47.000
+Und der hatte mir das gesagt und ich dachte, das ist bestimmt das Richtige.
+
+04:47.000 --> 04:49.000
+Und dann habe ich das im Jahr später angefangen zu studieren.
+
+04:49.000 --> 04:54.000
+Da waren wir dann auf einmal 200, weil auch das Studentensekretariat damals gesagt hatte,
+
+04:54.000 --> 04:58.000
+das ist doch bestimmt ein gutes drittes Fach hier, macht mal was mit Computern.
+
+04:58.000 --> 05:04.000
+Und alle Neuankömmlinge dahin beraten hat, das auch anzufangen.
+
+05:04.000 --> 05:08.000
+Von diesen 200 sind auch nicht alle übrig geblieben, aber ich bin tatsächlich halt dann da gelandet.
+
+05:08.000 --> 05:11.000
+Und das ist halt eben auch da, wo ich jetzt immer noch bin.
+
+05:11.000 --> 05:16.000
+Und im Grunde beschäftigt dich das Voynich-Manuskript seit deiner DIS, die du dort gemacht hast.
+
+05:16.000 --> 05:21.000
+Ja genau, die DIS, aber die DIS, also ja, ich habe jetzt vom Ende her gedacht,
+
+05:21.000 --> 05:26.000
+die DIS ist ja quasi das abgeschlossene Projekt, was ich dann 2012 eingereicht habe.
+
+05:26.000 --> 05:33.000
+Und tatsächlich, ja, 2009 habe ich das erste Mal vom Voynich-Manuskript gelesen,
+
+05:33.000 --> 05:38.000
+bei Katrin Pasik und Olaf Scholz im Lexikon des Unwissens.
+
+05:38.000 --> 05:42.000
+Da war einem Kapitel dem Voynich-Manuskript gewidmet.
+
+05:42.000 --> 05:48.000
+Und meine DIS ist nicht über das Voynich-Manuskript, sondern die heißt Textprozessierung, Design und Applikation
+
+05:48.000 --> 05:52.000
+und geht um eine Software für die Textprozessierung.
+
+05:52.000 --> 05:55.000
+Das heißt, für alle Geisteswissenschaftler, oder eigentlich nicht nur Geisteswissenschaftler,
+
+05:55.000 --> 06:04.000
+die Texte auf irgendeine Art und Weise analysieren wollen oder irgendwas mit diesen Texten machen wollen,
+
+06:04.000 --> 06:10.000
+dafür haben wir, also mein Kollege und ich, damals eine Architektur entwickelt
+
+06:10.000 --> 06:17.000
+und ein Framework implementiert, das hieß Tesla, Text Engineering Software Laboratory.
+
+06:17.000 --> 06:18.000
+Tesla?
+
+06:18.000 --> 06:19.000
+Tesla.
+
+06:19.000 --> 06:21.000
+Habt ihr euch den Namen gesichert?
+
+06:21.000 --> 06:29.000
+Ja, aber es heißt ja auch viel anderes Tesla, also halt eben für Text Engineering Software Laboratory,
+
+06:29.000 --> 06:31.000
+das ist halt eben das Akronym dazu.
+
+06:31.000 --> 06:37.000
+Es hat uns auf jeden Fall Elon Musk nicht vorbeigekommen und wollte uns den Namen abschwänzig machen.
+
+06:37.000 --> 06:45.000
+Ich muss auch sagen, dass diese Software, es gibt die zwar immer noch, aber ich hatte in den letzten,
+
+06:45.000 --> 06:49.000
+wir sind damit auch durch die Lande gezogen, die ist auch eigentlich relativ gut angekommen,
+
+06:49.000 --> 06:55.000
+aber die Platzhirsche, die sich damals in dem Gebiet gebildet haben,
+
+06:55.000 --> 07:02.000
+die halt eben auch von den großen EU-Fördertöpfen Daria und Clarin gefördert wurden,
+
+07:02.000 --> 07:06.000
+wollten mit uns immer kooperieren, das hat aus irgendwelchen Gründen nie geklappt.
+
+07:06.000 --> 07:09.000
+Das heißt, gibt es die Software immer noch, aber die zu pflegen,
+
+07:09.000 --> 07:17.000
+mein Kollege ist inzwischen Programmierer in Australien und ich bin halt eben hier in der Administration ziemlich eingespannt,
+
+07:17.000 --> 07:20.000
+aber wenn sich jemand dran setzen will, die gibt es halt immer noch.
+
+07:20.000 --> 07:24.000
+Die hat immer noch den tollen Namen Tesla und die kann immer noch eigentlich theoretisch alles,
+
+07:24.000 --> 07:26.000
+was man mit Texten machen kann, kann die machen.
+
+07:26.000 --> 07:31.000
+Die kann vor allem auch reproduzierbare Wissenschaft gewährleisten,
+
+07:31.000 --> 07:40.000
+weil innerhalb dieser Software die Ausgangsdaten, die Methodik und die Ergebnisse
+
+07:40.000 --> 07:45.000
+quasi reproduzierbar gespeichert werden in einem relativ knappen Format,
+
+07:45.000 --> 07:50.000
+was weitergegeben werden kann, was dann auf der ganzen Welt halt reproduziert werden kann,
+
+07:50.000 --> 07:53.000
+weil wir Daten und Methoden halt völlig offenlegen.
+
+07:53.000 --> 07:58.000
+Das ist jetzt eigentlich in aller Munde, das war damals 2006,
+
+07:58.000 --> 08:02.000
+als wir das angefangen haben, noch quasi in den Kinderschuhen.
+
+08:02.000 --> 08:04.000
+Das war eigentlich so ein erster Prototyp.
+
+08:04.000 --> 08:10.000
+So, und für diese Software brauchten wir jetzt am besten zwei verschiedene Anwendungsfälle.
+
+08:10.000 --> 08:14.000
+Mein Kollege hat tatsächlich einen linguistischen Anwendungsfall gemacht.
+
+08:14.000 --> 08:20.000
+Er hat ein Self-Organizing Graph gebaut, wo sich quasi Texte,
+
+08:20.000 --> 08:26.000
+Sätze aus Texten selbst organisieren, indem halt eben gesucht wird,
+
+08:26.000 --> 08:29.000
+wo sind die längsten übereinstimmenden Pfade.
+
+08:29.000 --> 08:32.000
+Und ich habe eben was anderes gebraucht.
+
+08:32.000 --> 08:38.000
+Und da bin ich auf das Ornish Manuskript gestoßen und auf die sehr vielen verschiedenen Untersuchungen
+
+08:38.000 --> 08:42.000
+und Studien zu diesem Manuskript, die sich teilweise widersprachen
+
+08:42.000 --> 08:45.000
+und die halt eben auch tatsächlich alle nicht reproduzierbar waren.
+
+08:45.000 --> 08:52.000
+Und dachte, das wäre ein schöner Anwendungsfall, um unser auf Reproduzierbarkeit getrimmtes
+
+08:52.000 --> 08:57.000
+Textprozessierungssystem mal zu erproben an einem Fall.
+
+08:57.000 --> 09:03.000
+Und so habe ich das Hobby ein bisschen, in dem Fall nicht zum Beruf, aber zur Diss gemacht.
+
+09:03.000 --> 09:08.000
+Aber es war eine relativ glückliche Fügung, weil man konnte halt tatsächlich so viele verschiedene Sachen
+
+09:08.000 --> 09:13.000
+mit diesem Manuskript machen, dass ich tatsächlich auch so viele verschiedene Sachen in der Diss dann beschreiben konnte.
+
+09:13.000 --> 09:19.000
+Und halt eben auch zeigen konnte, dass unser System dazu ausgelegt ist, genau diese verschiedenen Sachen zu machen.
+
+09:19.000 --> 09:26.000
+Das heißt, das Ornish Manuskript war im Grunde für dich so eine Art Testfall, mit dem du die Software testen konntest,
+
+09:26.000 --> 09:33.000
+aber das nicht dazu geführt hat, dass du einen Lösungsansatz für das Ornish Manuskript, den gesucht hast?
+
+09:33.000 --> 09:40.000
+Wenn man sich mit dem Ornish Manuskript beschäftigt, dann kommt man, glaube ich, nicht umhin,
+
+09:40.000 --> 09:43.000
+als einen Lösungsansatz dafür zu suchen.
+
+09:43.000 --> 09:48.000
+Es ist wie ein Magnet, der einen fesselt.
+
+09:48.000 --> 09:51.000
+Ich spreche mich jetzt mal völlig davon frei, nein natürlich nicht.
+
+09:51.000 --> 09:54.000
+Auch ich habe halt eben versucht, einen Lösungsansatz zu finden.
+
+09:54.000 --> 09:56.000
+Meiner war auch gar nicht so blöd, glaube ich.
+
+09:56.000 --> 10:02.000
+Ich würde allerdings inzwischen anderen Lösungsansätzen, wie ich jetzt immer sage,
+
+10:02.000 --> 10:09.000
+Ockhams Rasiermesser übergeben, weil die sind einfach schmaler, erklären nicht das Gleiche,
+
+10:09.000 --> 10:16.000
+aber annähernd gleich viel und brauchen aber dafür sehr viel weniger Handbedingungen, als mein Ansatz es gebracht hat.
+
+10:16.000 --> 10:20.000
+Das war aber das eine, die Software zu programmieren,
+
+10:20.000 --> 10:24.000
+zweitens das Manuskript in dieser Software zu prozessieren,
+
+10:24.000 --> 10:32.000
+das dritte war aber auch geisteswissenschaftliches in der Bibliothek sitzen
+
+10:32.000 --> 10:43.000
+und historische Bücher bzw. Abhandlungen entweder zu durchblättern, zu lesen oder sich einzufallen.
+
+10:43.000 --> 10:51.000
+Und teilweise auch Mikrofische durch die Gegend zu schieben von historischen Werken,
+
+10:51.000 --> 10:59.000
+die an der Uni Köln nicht vorlagen, aber wo man dann in so einem kleinen Holzkabüffchen im Mikrofischraum saß
+
+10:59.000 --> 11:04.000
+und tatsächlich, ich das irgendwann mal geschrieben habe, fieberhaft und ungelenk Strichlisten gemacht hat,
+
+11:04.000 --> 11:08.000
+wie lange die Wörter sind und dann tatsächlich gesehen hat,
+
+11:08.000 --> 11:18.000
+die Wörter, die aus so einer bestimmten Schiffreihe entsprangen, gesehen hat, dass da Ähnlichkeit zum Voynich Manuskript Text besteht.
+
+11:18.000 --> 11:20.000
+Das war schon schön.
+
+11:20.000 --> 11:22.000
+Also Ähnlichkeiten zu deinen Notizen?
+
+11:22.000 --> 11:29.000
+Ja, das Voynich Manuskript hat, wenn wir da schon einstellen, es hat halt eben sehr spezifische Eigenschaften,
+
+11:29.000 --> 11:35.000
+was die Wortlängenverteilung angeht, was den Informationsgehalt angeht und so weiter
+
+11:35.000 --> 11:41.000
+und die sind sehr krude, sage ich immer, sind halt ein Ort im Englischen.
+
+11:41.000 --> 11:46.000
+Das hat eine Menge Eigenschaften, die wir in natürlichen Sprachen so nicht finden.
+
+11:46.000 --> 11:56.000
+Also wir finden keine natürliche Sprache, sei es auch sonst, wie auf sonst welche Methoden aufgeschrieben
+
+11:56.000 --> 12:02.000
+und neuen Zeichen aufgeschrieben, wir finden nichts, was mit dem Voynich Manuskript irgendwie vergleichbar ist
+
+12:02.000 --> 12:04.000
+in manchen statistischen Eigenschaften.
+
+12:04.000 --> 12:09.000
+Und in anderen hat es dann eben auch wieder Nähe an natürlichen Sprachen als an Zufallsfolgen.
+
+12:09.000 --> 12:16.000
+Und die Schiffreihe, die ich halt damals recherchiert hatte, die war von Johannes Tritemius,
+
+12:16.000 --> 12:28.000
+das war ein Abt in Spunheim und später in Würzburg im sehr frühen 16. Jahrhundert oder Ende 15. oder Anfang 16. Jahrhundert
+
+12:28.000 --> 12:35.000
+und der hat eine Schiffreihe erdacht, tatsächlich die in der Anwendung ein bisschen sowas produziert,
+
+12:35.000 --> 12:44.000
+was halt ziemlich vergleichbare Eigenschaften wie der Voynich Manuskript Text hat, auf jeden Fall sehr viel
+
+12:44.000 --> 12:48.000
+näher dran liegt als jede Verschriftlichung einer natürlichen Sprache, die wir kennen.
+
+12:48.000 --> 12:52.000
+Da würde ich auf jeden Fall nachher gerne noch mal ein bisschen genauer darauf eingehen.
+
+12:52.000 --> 12:57.000
+Zunächst hat man vielleicht mal so ein paar allgemeine Dinge über das Voynich Manuskript klären.
+
+12:57.000 --> 13:10.000
+Also das heißt, was ist dieses Ding, wie viel Text ist das und so was wissen wir so um das Drumherum von diesem Voynich Manuskript?
+
+13:10.000 --> 13:15.000
+Ja, ich habe es jetzt leider auf der Arbeit vergessen, weil ich habe eigentlich die Universität Yale hat so ein,
+
+13:15.000 --> 13:20.000
+hat das Manuskript nochmal rausgegeben. Man kann jetzt auch das Facsimile kaufen.
+
+13:20.000 --> 13:27.000
+Eine spanische Firma produziert das, da muss man allerdings an die 10.000 Euro, glaube ich, auf den Tisch legen,
+
+13:27.000 --> 13:33.000
+weil das ist tatsächlich dann ein Facsimile, das heißt, das ist dann auch Pergament.
+
+13:33.000 --> 13:40.000
+Pergament ist nicht so einfach herzustellen, es kostet eine Menge, das herzustellen.
+
+13:40.000 --> 13:45.000
+Das hat aber auch in früheren Zeiten schon eine Menge gekostet, da können wir gleich vielleicht nochmal darauf zurückkommen.
+
+13:45.000 --> 13:54.000
+Ja, wir haben quasi Pergamentseiten, manchmal einfach gefaltet, manchmal mehrfach gefaltet, das ist so ungefähr DIN A5 Größe,
+
+13:54.000 --> 14:00.000
+kann man sich das Ganze vorstellen und diese Pergamentseiten sind teilweise ineinandergelegt.
+
+14:00.000 --> 14:09.000
+Und also halt zu sogenannten Quires, das sind halt einfach mehrere ineinandergelegte Pergamentseiten,
+
+14:09.000 --> 14:17.000
+gefaltet und quasi dann aufeinandergelegt und in einem Einband, ohne dass das halt eben festgezurrt wäre,
+
+14:17.000 --> 14:24.000
+das ist das Warnig Manuskript. Relativ schmucklos gewesen damals, als es gefunden wurde,
+
+14:24.000 --> 14:28.000
+da wurde dann auch nichts dran geändert, seit es gefunden wurde.
+
+14:28.000 --> 14:33.000
+Und das ist wahrscheinlich halt noch interessant, wann es gefunden wurde und von wem,
+
+14:33.000 --> 14:40.000
+nämlich 1912 von Winfried Warnig, daher hat es auch den Namen.
+
+14:40.000 --> 14:48.000
+Winfried Warnig war ein polnischstämmiger amerikanischer Buchhändler, der dieses Manuskript,
+
+14:48.000 --> 14:58.000
+diesen Kodex, wie man auch sagt, 1912 in der Villa Mondragone, das ist ein Jesuitenstift in der Nähe von Rom,
+
+14:58.000 --> 15:06.000
+gefunden hat und den dortigen Jesuiten abgekauft hat, mit einer Menge von anderen Büchern auch,
+
+15:06.000 --> 15:12.000
+von goldbesetzten Follianten und so weiter. Er meinte, das hätte in einer Kiste gelegen mit lauter prächtigen Büchern
+
+15:12.000 --> 15:18.000
+und sah halt so aus wie ein hässliches Endlein. Und er hat da reingeguckt und dachte, das brauche ich aber auch irgendwie.
+
+15:18.000 --> 15:27.000
+Da gibt es auch mehrere Geschichten darüber, nämlich dass irgendwann später mal der Buchhändler Kraus,
+
+15:27.000 --> 15:34.000
+bei dem das Manuskript gelandet ist, wieder in die Villa Mondragone kam und dort dieses Warnig-Manuskript
+
+15:34.000 --> 15:43.000
+unter anderem Namen natürlich noch verzeichnet gewesen sei. Das heißt, er hat dann die Geschichte in die Welt gesetzt.
+
+15:43.000 --> 15:47.000
+Warnig hätte das halt eben gar nicht gekauft, sondern irgendwie mitgehen lassen.
+
+15:47.000 --> 15:55.000
+Der hat sich dann aber wohl mündlich nochmal widersprochen. Aber das ist halt eben eine von diesen vielen lustigen Geschichten,
+
+15:55.000 --> 15:57.000
+die sich um dieses Manuskript entspinnen.
+
+15:57.000 --> 16:02.000
+Ab wann wird denn das Warnig-Manuskript als so was Besonderes gefasst?
+
+16:02.000 --> 16:08.000
+Das lag jetzt anscheinend auch ein paar Jahrhunderte da in diesem Jesuiden-Orden rum.
+
+16:08.000 --> 16:12.000
+Ab wann können wir denn dieses Warnig-Manuskript so zum ersten Mal fassen?
+
+16:12.000 --> 16:18.000
+Du zählst jetzt wahrscheinlich darauf ab, dass es eine Geschichte hat oder wahrscheinlich eine Geschichte hat
+
+16:18.000 --> 16:23.000
+und dass es halt nicht so ist, dass Warnig das selber gemalt haben kann im Jahr 1912.
+
+16:23.000 --> 16:26.000
+Da tritt es tatsächlich quasi in die Moderne ein.
+
+16:26.000 --> 16:34.000
+Das wurde zusammengefunden oder Warnig hat gesagt, dass er es zusammen mit einem Brief gefunden hat.
+
+16:34.000 --> 16:42.000
+Und dieser Brief ist datiert auf das Mitte des 17. Jahrhunderts und wurde von Prag nach Rom geschickt.
+
+16:42.000 --> 16:49.000
+Der Absender war entweder Georg Barresch oder Johannes Macchi, weil es gibt zwei Briefe, ein zweiter ist dann nachher aufgetaucht.
+
+16:49.000 --> 16:57.000
+Jedenfalls war der Adressat Athanasius Kircher ein Universalgelehrter im 17. Jahrhundert,
+
+16:57.000 --> 17:04.000
+der offenbar aus Prag dieses Manuskript hat zugeschickt bekommen mit dem Hinweis,
+
+17:04.000 --> 17:12.000
+dass das Ganze aus Kaiser Rudolfs Schatzkammer mehr oder weniger ist
+
+17:12.000 --> 17:18.000
+und der dieses Manuskript für 600 Dukaten gekauft haben soll.
+
+17:18.000 --> 17:25.000
+Deswegen gilt es als sehr wahrscheinlich, also auch dieser Brief hätte von Warnig jetzt gefälscht worden sein können,
+
+17:25.000 --> 17:34.000
+aber es sind seitdem in mehreren Archiven Briefe gesucht und auch gefunden worden, die genau diese Geschichte bestätigen.
+
+17:34.000 --> 17:40.000
+Nämlich halt eben ein zweiter Brief tatsächlich, der von Prag aus nach Rom geschickt wurde.
+
+17:40.000 --> 17:45.000
+Ja genau, jetzt weiß ich es auch wieder, weil der erste Brief, der gefunden wurde mit dem Manuskript,
+
+17:45.000 --> 17:50.000
+das war der von Machi und der erwähnten zweiten Brief, der vorher geschickt wurde,
+
+17:50.000 --> 17:58.000
+das ist der von Georg Barasch, der nur quasi einen Auszug des Warnig Manuskripts zu Athanasius Kircher nach Rom geschickt hat
+
+17:58.000 --> 18:07.000
+und Machi hat es dann im Gesamten nach Rom geschickt, weil die Prager haben versucht es zu lösen,
+
+18:07.000 --> 18:11.000
+die hatten dieses komische Manuskript da und kamen halt absolut nicht damit zurecht,
+
+18:11.000 --> 18:17.000
+offenbar und haben dann Athanasius Kircher in Rom gefragt, ob er ihnen nicht helfen könnte.
+
+18:17.000 --> 18:24.000
+Das haben sie nicht von ungefähr getan, weil Athanasius Kircher halt als Universalgelehrter galt damals
+
+18:24.000 --> 18:35.000
+und auch eine ziemlich große Sammlung von ziemlich beeindruckenden und auch seltsamen Stücken hatte, das Museum Kircharium,
+
+18:35.000 --> 18:42.000
+und außerdem behauptet hat, er hätte hier Juroglyphen entschlüsselt, was er nicht getan hat.
+
+18:42.000 --> 18:47.000
+Also getan hat er es schon, aber es hat sich später als falsch herausgestellt.
+
+18:47.000 --> 18:55.000
+Ja, so kann man es sehen. Lustig ist halt auch, dass das Kircher, der halt ansonsten, wie nennt man das,
+
+18:55.000 --> 19:00.000
+kein Blatt vor den Mund genommen hat und eigentlich über alles berichtet hat, was er so machte und rausgeblasen hat,
+
+19:00.000 --> 19:08.000
+nie ein Wort über dieses Manuskript verloren hat, sodass halt unbekannt war, ob es tatsächlich bei ihm angekommen ist.
+
+19:08.000 --> 19:14.000
+Aber die wahrscheinlichste Erklärung ist tatsächlich, dass er sich vielleicht genaht gefühlt hat,
+
+19:14.000 --> 19:22.000
+also dass er schon wusste, dass nicht alles, was er so erzählt hat, der Wahrheit entsprach
+
+19:22.000 --> 19:25.000
+und dass ihm jetzt halt eben jemand eine Falle stellen wollte.
+
+19:25.000 --> 19:30.000
+Ich finde, das ist eine wahrscheinlich Erklärung, aber man steckt nicht dahinter, ob das tatsächlich so war.
+
+19:30.000 --> 19:37.000
+Jedenfalls konnte man aber den Weg von diesem Museum Kircharium oder halt aus Rom in diese Villa Mondragone
+
+19:37.000 --> 19:42.000
+relativ gut nachzeichnen, weil die Bibliothek von Kircher tatsächlich da gelandet ist.
+
+19:42.000 --> 19:49.000
+Das hatte mit der Säkularisierung in Italien zu tun, in den 1870er Jahren, glaube ich, du bist der Historiker,
+
+19:49.000 --> 19:55.000
+ich habe das nur am Rande mal gelesen und schon wieder halb vergessen.
+
+19:55.000 --> 20:04.000
+Aber jedenfalls, das ist halt relativ sicher, dass das Manuskript nicht erst 1912 in die Welt kam,
+
+20:04.000 --> 20:08.000
+sondern tatsächlich schon Anfang des 17. Jahrhunderts.
+
+20:08.000 --> 20:16.000
+Das heißt, man kann es da auch wieder genau sagen, nämlich zwischen 1608 und 1623 am Hof von Kaiser Rudolf,
+
+20:16.000 --> 20:20.000
+dem Kaiser des Heiligen Römischen Reiches Deutscher Nation war,
+
+20:20.000 --> 20:30.000
+weil sich auf der ersten Seite jemand verewigt hat mit dem Namen Jakobus de Tempenetsch.
+
+20:30.000 --> 20:35.000
+Und Jakobus de Tempenetsch war Hofapotheker von Rudolf II.
+
+20:35.000 --> 20:39.000
+Das heißt, er hat das scheinbar irgendwie in die Hände bekommen und da seinen Namen drauf geschrieben,
+
+20:39.000 --> 20:41.000
+die Unterschrift wurde auch verglichen.
+
+20:41.000 --> 20:47.000
+Und er hat nicht nur diese 15 Jahre gelebt, aber er hat tatsächlich 1623 gestorben,
+
+20:47.000 --> 20:51.000
+aber er hat 1608 erst diesen Adelstitel verliehen bekommen.
+
+20:51.000 --> 20:55.000
+Man konnte den eigentlich vorher noch nicht führen oder wahrscheinlich auch noch nicht wissen.
+
+20:55.000 --> 20:58.000
+Der hieß nämlich vorher Jakob Hotchici.
+
+20:58.000 --> 21:05.000
+Und das heißt, 1608 Adelstitel verliehen, 1623 gestorben, dazwischen irgendwann diese Unterschrift draufgesetzt.
+
+21:05.000 --> 21:10.000
+Das heißt, wir wissen, okay, so alt scheint das Bonnich Manuskript zu sein.
+
+21:10.000 --> 21:14.000
+Wie es allerdings dahin gekommen ist, das weiß jetzt halt wieder niemand.
+
+21:14.000 --> 21:18.000
+Also hat es Jakobus selber geschrieben, wäre auch eine Möglichkeit gewesen.
+
+21:18.000 --> 21:23.000
+Andererseits hieß es halt in dem Brief, dass Kaiser Rudolf 600 Dukaten dafür bezahlt hätte,
+
+21:23.000 --> 21:28.000
+was, wie ich mir habe sagen lassen, eine ganze Menge zur damaligen Zeit war.
+
+21:28.000 --> 21:32.000
+Das heißt, das scheint irgendwo von außerhalb gekommen zu sein.
+
+21:32.000 --> 21:40.000
+Und da gab es auch sehr viele Spekulationen, wer genau das wie dahingebracht haben könnte.
+
+21:40.000 --> 21:42.000
+Vielleicht kommen wir später auch noch drauf.
+
+21:42.000 --> 21:46.000
+Aber vielleicht um das letzte Kapitel dieser Geschichte noch aufzuschlagen.
+
+21:46.000 --> 21:51.000
+2009 hat sich die Yale-Universität dann doch dazu durchgehungen.
+
+21:51.000 --> 21:54.000
+Die Yale-Universität deswegen, weil das Manuskript ist dort gelandet.
+
+21:54.000 --> 22:00.000
+Der Buchhändler Kraus, den ich vorhin schon mal angesprochen habe, hat das der Yale-Universität vermacht,
+
+22:00.000 --> 22:08.000
+weil er hätte es eigentlich gerne gelöst gesehen, aber hat damals schon, glaube ich, die Hoffnung darauf verloren.
+
+22:08.000 --> 22:13.000
+Das Yale geschenkt und jetzt in die Beinecke Rare Books & Manuskript Library gepackt,
+
+22:13.000 --> 22:16.000
+beziehungsweise in eine schöne Vitrine gelegt.
+
+22:16.000 --> 22:21.000
+Kann man auch nicht ohne Sondererlaubnis sich anschauen oder durchblättern,
+
+22:21.000 --> 22:24.000
+aber in der Vitrine halt angucken.
+
+22:24.000 --> 22:28.000
+Und die Yale-Universität hat sich relativ lange Zeit,
+
+22:28.000 --> 22:31.000
+also die hat das irgendwann in den 70er Jahren bekommen, das Manuskript.
+
+22:31.000 --> 22:34.000
+Und auch damals gab es die C14-Methode schon.
+
+22:34.000 --> 22:40.000
+Damit ist die Radio-Carbon-Methode, damit kann man das Alter von Dingen bestimmen, die auf Kohlenstoff basieren.
+
+22:40.000 --> 22:45.000
+Beziehungsweise man kann bestimmen, wann dieser Kohlenstoff aufgehört hat zu leben.
+
+22:45.000 --> 22:50.000
+Ich hatte vorhin schon mal gesagt, das ist Pergament, das heißt, es war mal Teil von einem lebenden Tier.
+
+22:50.000 --> 22:53.000
+Das Manuskript, und wir haben insgesamt, glaube ich, vier oder sechs Streifen,
+
+22:53.000 --> 23:03.000
+ganz schmale Streifen, mussten die abschneiden, weil diese Art von Analysen zerstören halt tatsächlich das ursprüngliche Ding, was sie untersuchen.
+
+23:03.000 --> 23:09.000
+Und haben diese, diese C14-Methode untersucht, diese Radio-Carbon-Methode,
+
+23:09.000 --> 23:14.000
+und haben da festgestellt, dass mit einer Wahrscheinlichkeit von 95%,
+
+23:14.000 --> 23:19.000
+was halt eben dieses Signifikanzmaß oder S1 oder was auch immer ist,
+
+23:19.000 --> 23:29.000
+zwischen 1418 und 1438 das Tier oder die Tiere, von denen diese Pergamente stammen, noch gelebt haben.
+
+23:29.000 --> 23:37.000
+Und das heißt, die Geschichte vom Wollnich-Manuskript ist halt knapp noch 200 Jahre älter, als wir halt eben vorher wussten.
+
+23:37.000 --> 23:40.000
+Und über diese 200 Jahre ist nichts bekannt.
+
+23:40.000 --> 23:43.000
+Und man weiß auch nicht, ab wann dann das Pergament beschrieben wurde.
+
+23:43.000 --> 23:45.000
+Das heißt, man weiß nur, wann das Pergament hergestellt wurde,
+
+23:45.000 --> 23:50.000
+wann das Wollnich-Manuskript zum ersten Mal so richtig auftaucht am Hof.
+
+23:50.000 --> 23:53.000
+Aber dazwischen, wann das verfasst wurde, kann man ja nicht sagen.
+
+23:53.000 --> 24:00.000
+Genau. Wobei es so ist, Pergament ist halt tatsächlich nicht billig.
+
+24:00.000 --> 24:03.000
+Heutzutage nicht billig in der Herstellung.
+
+24:03.000 --> 24:08.000
+War es damals aber auch nicht, dass jemand, ich weiß jetzt nicht, wie viele Bögen das sind,
+
+24:08.000 --> 24:17.000
+müsste ich schätzen ungefähr 40 oder so, das sind 200 Seiten, die halt zweiseitig beschrieben und eingeklappt und so weiter.
+
+24:17.000 --> 24:24.000
+Aber diese 40 Bögen Pergament, dass die über eine lange Zeit irgendwo rumgelegen haben,
+
+24:24.000 --> 24:30.000
+ohne dass jemand beschrieben hat, ist nicht auszuschließen, aber sehr, sehr unwahrscheinlich.
+
+24:30.000 --> 24:34.000
+Vor allem, weil es sich auch nicht um ein Palimpsest handelt.
+
+24:34.000 --> 24:41.000
+Das heißt, das Wollnich-Manuskript, die Schrift, die da drauf ist und die Zeichnungen, die da drauf sind, sind die ersten, die da drauf waren.
+
+24:41.000 --> 24:51.000
+Also es ist nichts ausgekratzt und neu beschrieben worden, sondern es war jungfräulich, bevor es das erste Mal beschriftet wurde.
+
+24:51.000 --> 24:53.000
+Und diese erste Beschriftung sehen wir jetzt auch heute noch.
+
+24:53.000 --> 25:02.000
+Was man vielleicht auch noch ergänzen könnte, ist, dass es nicht ungewöhnlich ist, dass Rudolf II. so ein Schriftgut kauft,
+
+25:02.000 --> 25:11.000
+weil er so bekannt war auch für so einerseits wissenschaftliches Wissen, aber andererseits auch so, was wir heute...
+
+25:11.000 --> 25:12.000
+Alchämie.
+
+25:12.000 --> 25:14.000
+Ja, genau. Alchämie, also alles so dieses...
+
+25:14.000 --> 25:17.000
+Magie, Mystik, Hermetik.
+
+25:17.000 --> 25:20.000
+Genau, was sich dafür sehr interessiert hat. Also Tycho Brahe, glaube ich, war bei ihm am Hof.
+
+25:20.000 --> 25:22.000
+So heißt er der Hofastronom und später...
+
+25:22.000 --> 25:24.000
+Habt ihr auch schon mal eine Folge darüber gehabt?
+
+25:24.000 --> 25:25.000
+Ne, noch nicht.
+
+25:25.000 --> 25:26.000
+Ne, noch nicht. Dann...
+
+25:26.000 --> 25:27.000
+Der steht noch aus.
+
+25:27.000 --> 25:31.000
+Kepler, glaube ich, war dann auch am Hof. Der war dann der Nachfolger von Tycho Brahe.
+
+25:31.000 --> 25:37.000
+Und das heißt, er hat sich für Wissenschaft, aber auch für das, was wir heute eben nicht mehr als Wissenschaft bezeichnen,
+
+25:37.000 --> 25:39.000
+aber er hatte da ein sehr starkes Interesse daran.
+
+25:39.000 --> 25:42.000
+Genau. Und ich glaube, das war damals auch noch gar nicht so strikt getrennt.
+
+25:42.000 --> 25:43.000
+Genau, ja.
+
+25:43.000 --> 25:51.000
+Weil halt eben die Alchämie, das Verwandeln von irgendeiner Substanz in Gold, das wurde halt für möglich angesehen.
+
+25:51.000 --> 25:55.000
+Und auch das hat wieder was mit dem Warnig Manuskript zu tun.
+
+25:55.000 --> 26:01.000
+Aber auch das ist halt der Geschichte, wo man ganz woanders anfangen muss.
+
+26:01.000 --> 26:10.000
+Und wo es um abgeschnittene Ohren und gelehrte Engelssungen und so weiter geht.
+
+26:10.000 --> 26:20.000
+Die Wissenschaft oder die Naturwissenschaft hat sich ja dann halt später mit Newton und Leibniz und der Royal Society...
+
+26:20.000 --> 26:28.000
+Das war halt eben eher alles Ende des 17. Jahrhunderts. Rudolf ist halt noch Anfang des 17. Jahrhunderts.
+
+26:28.000 --> 26:34.000
+Es ging schon in die Richtung, aber es war quasi noch alles zusammen. Philosophie, Naturwissenschaften und so weiter.
+
+26:34.000 --> 26:40.000
+Es war eigentlich Wissenschaft und man wusste noch nicht, was ist halt eben jetzt Hokus Pokus und was ist tatsächlich Wissenschaft.
+
+26:40.000 --> 26:47.000
+Ich glaube auch heutzutage wissen wir das nicht an allen Ecken und Enden, was exakte Wissenschaft ist
+
+26:47.000 --> 26:51.000
+und was vielleicht nicht da reingehört.
+
+26:51.000 --> 26:57.000
+Was ich so faszinierend finde an dem Warnig Manuskript und das hast du jetzt auch schon beschrieben, ist,
+
+26:57.000 --> 27:03.000
+das war nicht einfach nur so ein Schriftstück, das jemand mal verfasst hat, sondern das war auf Pergament.
+
+27:03.000 --> 27:09.000
+Das war wahnsinnig teuer. Es sind 200 Seiten. Das heißt, da hat auch jemand wirklich viel Zeit und Geld investiert.
+
+27:09.000 --> 27:13.000
+Und wir reden da vermutlich Ausgang Mittelalter Anfang frühe Neuzeit.
+
+27:13.000 --> 27:19.000
+Also das war jetzt so, das musste jemand sein, der vielleicht oder wenn es mehrere waren,
+
+27:19.000 --> 27:27.000
+die einen recht privilegierten Status hatten und überhaupt Zugang hatten zu diesem Wissen, so ein Ding herzustellen.
+
+27:27.000 --> 27:37.000
+Ja, auf jeden Fall. Wobei ich da auch wieder, ich muss mal die Einschränkung machen, eher von der Textseite rangehe,
+
+27:37.000 --> 27:44.000
+die ich eben den Text analysiert habe und mir weniger Gedanken darum gemacht habe, wer jetzt genau die Möglichkeit dazu hat.
+
+27:44.000 --> 27:53.000
+Aber das, was du gesagt hast, ist halt völlig richtig. Es muss eine privilegierte Person oder jemand mit sehr viel Glück gewesen sein.
+
+27:53.000 --> 27:59.000
+Aber auch das darf man nie ganz ausschließen oder halt tatsächlich.
+
+27:59.000 --> 28:04.000
+Also wir wissen nichts darüber, nichts über den Grund, weshalb das Ganze hergestellt wurde,
+
+28:04.000 --> 28:09.000
+weil wir auch nicht wissen, was drinsteht. Kommen wir vielleicht mal so zum Inhalt.
+
+28:09.000 --> 28:13.000
+Also es hat ja unterschiedliche Kapitel in diesen 200 Zeiten.
+
+28:13.000 --> 28:20.000
+Vielleicht kannst du mal so ein bisschen beschreiben, wie man sich das vorstellen kann, wie man sich den Text und die Bilder, die da zu sehen sind, vorstellen kann.
+
+28:20.000 --> 28:25.000
+Genau. Also wenn du halt eben Gliederung sagst, uns ist der Text völlig unbekannt.
+
+28:25.000 --> 28:31.000
+Das heißt, wir können mit dem Text noch immer nichts anfangen und werden vielleicht auch nie was damit anfangen können.
+
+28:31.000 --> 28:37.000
+Das heißt, eine Unterteilung des Manuskripts ist halt nur möglich durch die Bilder, die es halt auch enthält.
+
+28:37.000 --> 28:42.000
+Und es sind halt eben sehr viele Bilder tatsächlich in dem Manuskript.
+
+28:42.000 --> 28:47.000
+Und danach wird es in fünf bis sechs Teile unterteilt.
+
+28:47.000 --> 28:53.000
+Blättern wir das mal von Anfang bis Ende durch. Also ich jetzt im Kopf, weil ich es leider nicht hier habe,
+
+28:53.000 --> 29:03.000
+auf den ersten ziemlich langen Teil, der sich über mindestens 50, eher 80 Seiten erstreckt.
+
+29:03.000 --> 29:13.000
+Das ist der sogenannte Pflanzental oder der Herbal Part, weil dort auf jeder Seite genau eine Pflanze dargestellt ist.
+
+29:13.000 --> 29:19.000
+Oder eine Pflanze gezeichnet wurde. Die sehen nie gleich aus, sondern immer ein bisschen verschieden.
+
+29:19.000 --> 29:29.000
+Aber die haben alle quasi aus der Erde rausgerissen, weil man sieht die Wurzeln, man sieht halt Stängel und man sieht Blüten oder Blätter.
+
+29:29.000 --> 29:39.000
+Und diese Pflanzen sind halt sehr zentral auf dem Blatt angeordnet und erstrecken sich auch fast über das ganze Blatt.
+
+29:39.000 --> 29:44.000
+Aber es ist auch Text da und dieser Text ist halt genau da, wo Platz ist.
+
+29:44.000 --> 29:49.000
+Also wenn ich in der Mitte so einen großen Blätterbusch habe, dann ist der Text da drüber und da drunter.
+
+29:49.000 --> 29:54.000
+Und wird halt jeweils dann oben durch die Blütenblätter, unten durch die Wurzeln getrennt.
+
+29:54.000 --> 29:59.000
+Also man hat dann quasi so zwei Paragraphen Text, die in der Mitte nochmal getrennt werden.
+
+29:59.000 --> 30:06.000
+Und wenn ich andererseits halt ein sehr dichtes Wurzelwerk habe, ist der Text eher oben.
+
+30:06.000 --> 30:17.000
+Jedenfalls habe ich auf jeder Seite Text oder das, was wir als Text bezeichnen, also Zeichen, die man auch von nirgendwo anders kennt.
+
+30:17.000 --> 30:27.000
+Manche so aussehen wie lateinische Schrift, andere aber auch völlig anders.
+
+30:27.000 --> 30:37.000
+Das heißt, auf den ersten Blick könnte man meinen, wenn man auf diesen Text guckt, okay, das ist halt irgendwie eine mittelalterliche Schrift.
+
+30:37.000 --> 30:43.000
+Aber wenn man Leute ranlässt, die halt eben in mittelalterlicher Schrift kundig sind, dann sagen die, nee, ist das nicht.
+
+30:43.000 --> 30:46.000
+Das sind halt eben tatsächlich völlig andere Zeichen.
+
+30:46.000 --> 30:56.000
+Manches kann ein A sein, aber halt andere Zeichen haben überhaupt kein Vorbild in unserer natürlichen Sprache oder in unserem lateinischen Archiv.
+
+30:56.000 --> 31:00.000
+Gut, das ist der erste Teil. Das ist auch mit Abstand der Umfang reich.
+
+31:00.000 --> 31:05.000
+Da kann man sich halt vorstellen, eine Seite, Pflanze drauf, Text drum rum, blättert um.
+
+31:05.000 --> 31:12.000
+Kann man die Pflanzen zuordnen? Also weiß man, was das für Pflanzen sind oder sind die auch eher so, dass man sie nicht zuordnen kann?
+
+31:12.000 --> 31:22.000
+Pflanzen, also das habe ich auch halt gelesen, dass man damals die Pflanzen oder die Dinge nicht so gemalt hat, wie sie tatsächlich sind,
+
+31:22.000 --> 31:26.000
+sondern so, dass man das widerspiegelt, was man damit ausdrücken will.
+
+31:26.000 --> 31:33.000
+Das heißt, die Pflanzen sehen zwar, also man erkennt, dass es eine Pflanze ist, aber es sieht aus wie eine Kinderzeichnung manchmal.
+
+31:33.000 --> 31:38.000
+Obwohl, dazu ist es halt eben auch zu fein gemacht, aber man erkennt es halt nicht genau.
+
+31:38.000 --> 31:44.000
+Also die ersten beiden Pflanzen, die man erkannt haben wollte, waren die Sonnenblume und der spanische Pfeffer.
+
+31:44.000 --> 31:47.000
+Das hat auch ziemlich lange Zeit gehalten.
+
+31:47.000 --> 31:53.000
+Dann kam aber auch die Datierung und der spanische Pfeffer kommt halt aus Südamerika.
+
+31:53.000 --> 32:03.000
+Das heißt, bevor Kolumbus Amerika entdeckt hat und dann halt in seiner Nachfolge die Pflanzen nach Europa rübergekarrt wurden,
+
+32:03.000 --> 32:07.000
+oder zumindest Europäer, die die Pflanzen gesehen haben und in Europa hätten was aufschreiben können,
+
+32:07.000 --> 32:18.000
+das ist halt zu spät, weil unser Pergament ist von Mitte des 15. Jahrhunderts.
+
+32:18.000 --> 32:22.000
+Da gab es halt eben kaum noch keinen transatlantischen Handel.
+
+32:22.000 --> 32:30.000
+Das heißt, was dann auch einige Theorien zum Anlass genommen haben, zu sagen, okay, das Manuskript ist in Amerika entstanden.
+
+32:30.000 --> 32:45.000
+Und spiegelt quasi eine Verschriftlichung von der Sprache wider, die wir nicht mehr kennen, weil die Einwohner alle tot sind oder weil die Sprecher und Sprecherinnen alle tot sind oder vergessen wurden oder was auch immer.
+
+32:45.000 --> 32:53.000
+Aber du siehst, also die beiden Pflanzen, wo man sich, es sind insgesamt halt 100 Pflanzen und bei zwei hat man gesagt, das könnte das sein, das könnte das sein.
+
+32:53.000 --> 33:07.000
+Und die sind halt eben beide, zumindest eine von beiden haut halt geschichtlich überhaupt nicht hin oder das Manuskript muss halt auch über den Ozean gekommen sein, ohne dass wir halt, also spätestens da müsste der Weg halt irgendwie nachgezeichnet worden sein,
+
+33:07.000 --> 33:11.000
+weil das auf irgendeinem Schiff, in irgendeinem Schiff wäre das mitgebracht worden.
+
+33:11.000 --> 33:23.000
+Es spricht dann auch noch andere Sachen gegen, unter anderem, dass da Ritterburgen abgebildet sind mit Schweibenschwanzzin, die es halt eben in Amerika zuletzt halt auch überhaupt nicht gegeben hat.
+
+33:23.000 --> 33:35.000
+Gut, jetzt sind wir aber genau in dem Pflanzenkapitel, also Pflanze, man dreht die Seite um, man hat dann halt zwei Pflanzen, man hat zwei Seiten, man hat halt eben so ein Buch durchblättert.
+
+33:35.000 --> 33:55.000
+Und dann irgendwann verändern sich die Seiten, weil dann halt eben nicht mehr Pflanzen abgebildet sind, sondern sowas wie Sonnen, Planeten, komische Steine, wo halt eben auch Text meistens an den konzentrischen Kreisen drumherum geschrieben wurde.
+
+33:55.000 --> 34:12.000
+Das ist der astronomische Teil, nennt man den, der wird mancher zusammengefasst mit dem astrologischen Teil, wo wir in der Mitte Sternkreiszeichen haben, Tierkreiszeichen, Entschuldigung, und auch der Text dort in konzentrischen Kreisen rumfließt.
+
+34:12.000 --> 34:24.000
+Sehr viel weniger Text, passt halt eben weniger auf die Seite, weil die tatsächlich dann, man hat so mehrere ineinander greifende Kreise und da ist der Text drin, in der Mitte ist dann halt ein Widder oder eine Jungfrau oder ein Waschbecken.
+
+34:24.000 --> 34:26.000
+Oder ein Wassermann.
+
+34:26.000 --> 34:49.000
+Danach, zumindest wenn man halt von dieser kanonischen Reihenfolge ausgeht, die ja auch basiert auf einer Nummerierung der Seiten, wobei die Nummerierung der Seiten nicht original ist, sehr wahrscheinlich, sondern tatsächlich mit einer anderen Tinte zu einer anderen Zeit drauf geschrieben wurde, vielleicht in Prag, 1600, Anfang des 17. Jahrhunderts.
+
+34:49.000 --> 35:03.000
+Ja, jedenfalls, wenn man durch diesen astrologischen und astronomischen Teil durch ist, kommt man zu einem Teil, der nicht unbedingt verstörend, jedenfalls nicht in unseren Maßstäben verstörend ist.
+
+35:03.000 --> 35:09.000
+Man kann sich aber auch vorstellen, dass er halt früher vielleicht dann noch verstörender war, weil man sehr viele nackte Frauen sieht.
+
+35:09.000 --> 35:29.000
+Nicht bis ins letzte Detail gezeichnet, die haben auch alle was, größere Bäuche, könnten schwanger sein oder auch nicht, aber man sieht halt tatsächlich eine Menge von nackten Frauen und diese nackten Frauen stehen in Wannen oder anderen Gefäßen mit grünlichem Wasser.
+
+35:29.000 --> 35:40.000
+Und diese Gefäße sind halt eben teilweise miteinander verbunden und bilden halt eben auf so einer Seite, ist dann halt eben oben links ein Gefäß und über Rohrsysteme ist das mit einem Gefäß unten rechts verbunden.
+
+35:40.000 --> 35:42.000
+Und es gibt auch halt zwischendurch Text.
+
+35:42.000 --> 35:52.000
+Das heißt, die balneologische Sektion, eben die Bade Sektion, weil die Frauen stehen allerdings tatsächlich alle und das sind ausschließlich Frauen.
+
+35:52.000 --> 36:04.000
+Also einer will immer irgendwo einen Mann erkannt haben, aber es ist zumindest am Big, aber vielleicht haben wir da auch nicht halt tatsächlich zwei Geschlechter, aber eigentlich, also man meint halt eben schon Frauen zu erkennen.
+
+36:04.000 --> 36:09.000
+Ja, aber was hat diese Rohrsysteme und was diese Badewannen zu bedeuten haben, ist halt auch völlig unklar.
+
+36:09.000 --> 36:20.000
+Und auch da wieder der Text. Der Text ist auch, der ist zwar variabel über die ganze Zeit, aber da wir ihn halt nicht verstehen, können wir es halt nicht genau sagen, aber die Zeichen sind von Anfang bis Ende die gleichen.
+
+36:20.000 --> 36:23.000
+Die Wörter werden allerdings anders.
+
+36:23.000 --> 36:25.000
+Das haben wir vielleicht auch noch zu.
+
+36:25.000 --> 36:32.000
+Das war jetzt dann der dritte Teil, vierte Teil, genau, wenn wir das astronomisch und astrologisch trennen, ist das der vierte Teil.
+
+36:32.000 --> 36:35.000
+Der fünfte Teil ist dann die Rezept Sektion.
+
+36:35.000 --> 36:43.000
+Da haben wir Pflanzen und Gefäße im Wechsel, in so Zeilen kann man sagen, und zwischen diesen Zeilen haben wir halt wieder Text.
+
+36:43.000 --> 37:03.000
+Es sieht so aus, man könnte da rein interpretieren, als wenn das tatsächlich so ein pharmazeutisches Buch ist, wo am Anfang halt eben die Pflanzen und dann halt eben nachher die badenden Menschen und zwischendurch die Sternkreiszeichen gezeigt wurden.
+
+37:03.000 --> 37:11.000
+Und jetzt hat man halt eben so Rezepte, verschiedene Pflanzen und verschiedene Gefäße und da wird vielleicht irgendwas beschrieben.
+
+37:11.000 --> 37:17.000
+Zumindest könnte man sonst von den Bildern denken, weil Text zum Henker, wir kennen ihn nicht.
+
+37:17.000 --> 37:36.000
+Und dann kommt man, ja doch, jetzt bin ich glaube ich durch, die letzte Sektion, ach ne, das ist tatsächlich die Rezepte Sektion, weil das ist quasi durchgehender Text und dieser Text ist quasi mit Bullet Points versehen.
+
+37:36.000 --> 37:42.000
+Das sieht aus wie eine Aufzählung, diese Bullet Points sind Sterne, die sich halt eben jeweils am linken Rand befinden.
+
+37:42.000 --> 37:45.000
+Und ja, dann hat man halt eben 200 Seiten durch.
+
+37:45.000 --> 38:00.000
+Ganz in die letzte Seite ist es noch ein bisschen anders, da sind das auch lateinische Zeichen, teilweise kann man da was konstruieren, was mittelhochdeutsch oder so sein könnte, aus einzelnen Wörtern, aber es gibt alles keinen Sinn.
+
+38:00.000 --> 38:13.000
+Und ja, dann ist man durch das Manuskript durch, hat eine Menge lustiger Bilder gesehen, hat sich seine Gedanken gemacht, aber man kann halt eben den Text nicht lesen.
+
+38:13.000 --> 38:29.000
+Wenn man sich diese einzelnen Buchstaben anguckt oder wenn man davon ausgeht, das sind Buchstaben, ich weiß nicht, ob man das so genau trennen kann, aber haben die Anleihen an sowas wie einem Alphabet oder sind es Zeichen, die man so nicht zuordnen könnte?
+
+38:29.000 --> 38:39.000
+Die haben ganz klar Anleihen bei einem Alphabet und ich glaube, man spricht dort auch von Glyphen, weil wir nicht genau wissen, wo sind die ganzen Zwischenbuchstaben.
+
+38:39.000 --> 38:46.000
+Also manche Glyphen kommen tatsächlich, da kommen die Einzelteile auch ohne den Rest vor.
+
+38:46.000 --> 38:50.000
+Bei manchen Glyphen ist es halt so, dass die eben nur im Verbund vorkommen.
+
+38:50.000 --> 39:01.000
+Manche sind halt horizontal relativ stark ausgeprägt, so wie bei uns das F zum Beispiel, das was halt über, damals in der Grundschule über die drei Striche ging.
+
+39:01.000 --> 39:17.000
+Und andere sind halt eben plan ausgeprägt, manche, manchmal hat man halt eben so zwei Cs, die mit einem Balken verbunden sind, wo aber dann auch halt eben diese vertikal groß ausgeprägten Zeichen, die man Gallows nennt, dazwischen gesetzt sein können.
+
+39:17.000 --> 39:27.000
+Aber man kann halt eben versuchen, durch eine Analyse zu schauen, welche Sachen kommen in verschiedenen Kombinationen vor und was könnte dann ein Buchstabe sein.
+
+39:27.000 --> 39:44.000
+Und wenn man dann anfängt zu zählen, dann kommt man halt, je nachdem wie man zählt, was man als Buchstaben sieht oder als Kombination, ob man halt eben eine Glyphe auseinander nimmt in mehrere Buchstaben oder ob man sagt, dass halt eben dieser Verbund genau entspricht genau einem Buchstaben.
+
+39:44.000 --> 39:51.000
+Man kommt raus bei einer Menge zwischen 24 oder zwischen 23 und 36 verschiedenen Zeichen.
+
+39:51.000 --> 39:54.000
+Und das ist halt eben klassisch Alphabet-Schrift eigentlich.
+
+39:54.000 --> 40:13.000
+Also gut, mit 35 könnte man auch schon eine Silbenschrift machen, aber das sind tatsächlich Analysen, die halt älter sind und man ist ja jetzt analytischer dran gegangen und hat halt eben diese Zeichen, die hier, also hat dann gesehen, okay, das scheint doch aus mehreren Zeichen zu bestehen.
+
+40:13.000 --> 40:16.000
+Das ist eher eine Kombination und kein eigenes Zeichen.
+
+40:16.000 --> 40:22.000
+Es gibt dann halt eben noch einzelne Zeichen, die nur einmal oder halt nur quasi in der ersten Zeile vorkommen.
+
+40:22.000 --> 40:28.000
+Da sind manchmal halt eben verschiedene Buchstaben in verschiedenen Wörtern mit so einem Querweichen miteinander verbunden.
+
+40:28.000 --> 40:30.000
+Sieht ein bisschen aus wie eine Verzierung.
+
+40:30.000 --> 40:36.000
+Wie heißt das bei Büchern, wenn der erste Buchstabe halt eben so schön verziert ist und rausgehoben wurde?
+
+40:36.000 --> 40:43.000
+Könnte ich mir vorstellen, dass das so was ist, weil ansonsten ist es halt eben so schöner Blocksatz.
+
+40:43.000 --> 40:46.000
+Der Text ist halt, der fließt immer genau um diese Pflanzen rum.
+
+40:46.000 --> 40:50.000
+Es scheint auch immer genau exakt so viel Platz da zu sein, wie man für den Text braucht.
+
+40:50.000 --> 40:57.000
+Man hat dann halt eben tatsächlich nicht nur am linken Rand einen schönen Absatz, einen schönen Block, sondern auch am rechten Rand.
+
+40:57.000 --> 41:00.000
+Also wie wir das bei Textbearbeitung mit Blocksatz machen.
+
+41:00.000 --> 41:06.000
+Und ja, das ist halt eben auch eine Besonderheit.
+
+41:06.000 --> 41:11.000
+Warum ist das für einen Text, dass der halt eben so gut in den Platz passt, der für den Text vorgesehen ist?
+
+41:11.000 --> 41:16.000
+Man würde davon ausgehen, es gab einen Entwurf, der abgezeichnet wurde.
+
+41:16.000 --> 41:18.000
+Ja, das könnte sein.
+
+41:18.000 --> 41:26.000
+Oder der oder diejenige, die den Text geschrieben hat, konnte halt die Wörter oder halt die Zeichen.
+
+41:26.000 --> 41:31.000
+Ja doch, Wörter kann man halt eben auch sehen tatsächlich in dem Text, weil wir haben Spatien.
+
+41:31.000 --> 41:36.000
+Das heißt, wir haben Abstände zwischen Zeichen, Zeichensequenzen, was aussieht wie Wörter.
+
+41:36.000 --> 41:39.000
+Was wir nicht haben, ist offensichtlich Interfunktion.
+
+41:39.000 --> 41:45.000
+Also es kann kein Zeichen ausgemacht werden, was als Interfunktion fungieren könnte,
+
+41:45.000 --> 41:53.000
+weil es halt eben keins gibt, was an so ausgewiesenen Stellen steht, dass es halt ein Punktenkomma oder sonst was sein könnte.
+
+41:53.000 --> 41:56.000
+Wir haben tatsächlich halt eben einzelne Zeichen können ausgemacht werden.
+
+41:56.000 --> 42:02.000
+Die sind aber halt eben in Ligaturen zusammengefasst, aber halt zwischen Wörtern haben wir Abstände
+
+42:02.000 --> 42:05.000
+und zwischen Absätzen haben wir Abstände.
+
+42:05.000 --> 42:09.000
+Also das sind so die drei Gliederungsebenen, die man entdecken kann.
+
+42:09.000 --> 42:19.000
+Wenn du da jetzt computerlinguistisch rangehst, was wären so Möglichkeiten, die du hast und was hast du gemacht und was hast du dabei rausgefunden?
+
+42:19.000 --> 42:22.000
+Ich habe dreierlei Sachen gemacht.
+
+42:22.000 --> 42:31.000
+Ich habe erstmal versucht, die statistischen Eigenschaften, die der Text hat und die vorher postuliert wurden, zu reproduzieren.
+
+42:31.000 --> 42:34.000
+Das ist mir in den meisten Fällen auch gelungen, in manchen Fällen nicht.
+
+42:34.000 --> 42:39.000
+Was ich halt gesagt habe, natürlich kann es an mir liegen, aber guckt mal hier ist mein Code.
+
+42:39.000 --> 42:44.000
+Es kann sein, dass ich etwas falsch gemacht habe, aber das kann man halt bei mir nachprüfen.
+
+42:44.000 --> 42:52.000
+Und das zweite, das führt was weiter, weil das mit dem Lösungsansatz, mit der Schifre von Tritemius zu tun hat.
+
+42:52.000 --> 42:59.000
+Um es allgemeiner zu beantworten, was kann man computerlinguistisch machen, wenn man keine Ahnung hat, was das zum Henker von Text ist?
+
+42:59.000 --> 43:03.000
+Eigentlich fällt das ja in den Bereich der Kryptologie.
+
+43:03.000 --> 43:15.000
+Also wenn man Kryptoanalyse macht, versucht man eine Schifre oder eine Verschlüsselung zu knacken, die man nicht kennt.
+
+43:15.000 --> 43:18.000
+Oder wo man vielleicht die Methode kennt, aber den Schlüssel nicht kennt.
+
+43:18.000 --> 43:23.000
+Dazu ist es sehr ratsam zu wissen, in welcher Sprache man sucht.
+
+43:23.000 --> 43:28.000
+Weil Sprachen Anatomien haben, so kann man es zumindest ausdrücken.
+
+43:28.000 --> 43:33.000
+Das Deutsche hat zum Beispiel die Anatomie, dass das E besonders häufig vorkommt.
+
+43:33.000 --> 43:36.000
+17 Prozent aller Fälle hat man im Deutschen E.
+
+43:36.000 --> 43:43.000
+Das macht die Sache einfach bei diesen Zahlenkreuzworträtseln, wo halt Buchstaben durch Zahlen ersetzt sind, und man das raten muss.
+
+43:43.000 --> 43:50.000
+Das macht es auch einfach bei einfachen Schifren, wie halt eben diesen Rotationsschifren, die zum Beispiel Cäsar gebraucht hat.
+
+43:50.000 --> 43:54.000
+Und A durch ein D verschlüsselt wurde, B durch ein E und immer das Gleiche.
+
+43:54.000 --> 44:03.000
+Da muss man halt einfach nur gucken, wenn man weiß, man hat das Deutsche, die meisten mitteleuropäischen Sprachen bevorzugen halt das E.
+
+44:03.000 --> 44:11.000
+Und wenn man weiß, das Zeichen, was am häufigsten vorkommt, ist das E, und das Zeichen, was am häufigsten danach kommt, ist entweder das R oder das N,
+
+44:11.000 --> 44:15.000
+dann kann man halt eben langsam diesen Text einsetzen.
+
+44:15.000 --> 44:21.000
+Und wenn man dann halt eben die Wörter der Sprache kennt, kommt man früher oder später auf den Trichter.
+
+44:21.000 --> 44:26.000
+Aber halt nur, wenn man weiß, welche Sprache es ist. Wenn man es nicht weiß, fällt es halt raus.
+
+44:26.000 --> 44:31.000
+So, und hier wissen wir halt eben nicht, was Sache ist.
+
+44:31.000 --> 44:39.000
+Ich habe ja 2009 damit angefangen, da war das Bornich-Manuskript schon fast 100 Jahre nicht auf dem Markt,
+
+44:39.000 --> 44:44.000
+weil es erst mal nur einem Wissenschaftler zugänglich gemacht wurde, William Newbold von Winfried Bornich,
+
+44:44.000 --> 44:52.000
+aber dann ab den 40er, 50er Jahren zumindest Abschriften kursiert sind, die Leute untersuchen konnten.
+
+44:52.000 --> 44:59.000
+Und da haben sich die größten Kryptoanalytiker des 20. Jahrhunderts, oder eigentlich der, man kann glaube ich sagen, der größte William Friedman,
+
+44:59.000 --> 45:04.000
+mit auseinandergesetzt, hat eine Study Group einberufen, hat eigentlich genau das Richtige gemacht,
+
+45:04.000 --> 45:08.000
+hat Experten und Expertinnen aus vielen verschiedenen Bereichen zusammengebracht,
+
+45:08.000 --> 45:18.000
+von den Linguisten, von Code-Knackern, von Mathematikern, über Physiker und Historiker und auch jeweils die weibliche Form,
+
+45:18.000 --> 45:23.000
+die ich jetzt leider vergessen habe, zusammengebracht und das hieß die First Study Group,
+
+45:23.000 --> 45:26.000
+die haben auch die erste Transkription von dem Bornich-Manuskript gemacht.
+
+45:26.000 --> 45:32.000
+Das heißt, wir haben ja eine Handschrift und um diese Handschrift computerlesbar zu machen,
+
+45:32.000 --> 45:39.000
+muss man die in diskrete Zeichen überführen oder in Sequenzen von diskreten Zeichen, das haben die gemacht.
+
+45:39.000 --> 45:45.000
+Und seitdem können sich halt, also gut, die hatten damals das Internet noch nicht, das hatte ich dann,
+
+45:45.000 --> 45:50.000
+das heißt, das könnte man sich halt tatsächlich einfach runterladen, den Text, auch für verschiedene Sektionen,
+
+45:50.000 --> 45:54.000
+inzwischen gibt es einen Bornich-Information-Browser, also da ist halt eben viel an Infrastruktur gebaut worden,
+
+45:54.000 --> 45:58.000
+meistens halt von, nicht aus der Wissenschaft, sondern tatsächlich von Hobbyforschern,
+
+45:58.000 --> 46:03.000
+das aber sehr, sehr gut verwendet werden kann.
+
+46:03.000 --> 46:06.000
+So, also was haben wir, wir haben halt eben diesen Text, wir wissen nicht, welche Sprache es ist,
+
+46:06.000 --> 46:09.000
+wir wissen halt noch nicht mal, ob es halt irgendeine Sprache oder eine Verschlüsselung ist
+
+46:09.000 --> 46:14.000
+oder ob es halt eben doch nur irgendein sinnloses Gebrabbel ist.
+
+46:14.000 --> 46:20.000
+Jetzt kann man aber messen, man kann halt eben zum Beispiel Buchstabenhäufigkeiten zählen.
+
+46:20.000 --> 46:23.000
+Das kann man auch machen, wenn man nicht weiß, welche Sprache es ist.
+
+46:23.000 --> 46:28.000
+Und kriegt dann halt eben beim Bornich-Manuskript daraus, ja okay, weil eben diese Verteilung von Buchstaben
+
+46:28.000 --> 46:31.000
+entspricht ungefähr der von natürlichen Sprachen.
+
+46:31.000 --> 46:36.000
+Dann kann man anfangen, Worthäufigkeiten zu zählen.
+
+46:36.000 --> 46:41.000
+Und auch das ist halt eben die Anatomie von natürlichen Sprachen, dass Worthäufigkeiten
+
+46:41.000 --> 46:47.000
+einer bestimmten Verteilung entsprechen, nämlich der sogenannten CIP-Verteilung, jedenfalls mehr oder weniger.
+
+46:47.000 --> 46:57.000
+Das ist CIPs famous law, wo halt der Rang eines Wortes, das heißt also man zählt alle Wörter
+
+46:57.000 --> 47:04.000
+und das Wort, was man am häufigsten zählt, liegt auf Rang 1, das zweite häufigste auf Rang 2 und so weiter.
+
+47:04.000 --> 47:13.000
+Und CIPs sagte jetzt, wenn man jetzt den Rang mit der Häufigkeit multipliziert, dann kriegt man eine Konstante raus.
+
+47:13.000 --> 47:19.000
+Und das gilt halt eben für natürliche Sprachen, mehr oder minder, also halt das franz so ein bisschen aus.
+
+47:19.000 --> 47:26.000
+Das gilt allerdings auch für viele andere Sachen, zum Beispiel für Städte in Deutschland.
+
+47:26.000 --> 47:31.000
+Also die größte Stadt in Deutschland ist, oder die einwohnerreichste ist Berlin.
+
+47:31.000 --> 47:36.000
+Hat 3,2 Millionen Einwohner, ist auf Rang 1, also 3,2 mal 1 ist 3,2.
+
+47:36.000 --> 47:48.000
+Zweitgrößte ist Hamburg, 1,6 oder 1,7, so ungefähr, also kriegst du halt entweder 3,2 oder 3,4 raus, wenn du 1,6 mal 2 nimmst.
+
+47:48.000 --> 47:55.000
+Das bleibt also konstant. Drittgrößte Stadt ist München, 1,2 Millionen Einwohner oder so, mal 3 hast du 3,6.
+
+47:55.000 --> 48:01.000
+Viertgrößte Stadt ist Köln, Ausreißer nach oben, gut, Portswolde eingemeindet, hast halt eben viermal eine Million.
+
+48:01.000 --> 48:09.000
+Aber du siehst auch das, weil Rang und Häufigkeit halt eben auch miteinander zusammenspielen, kommt halt daraus.
+
+48:09.000 --> 48:12.000
+Nur Zipf hat halt eben gezeigt, bei einer Zufallsverteilung hast du das nicht.
+
+48:12.000 --> 48:15.000
+Wenn du eine Zufallsverteilung hast, kommt alles ungefähr gleich häufig vor.
+
+48:15.000 --> 48:21.000
+Und du kriegst halt eben nicht diese Verteilung aus.
+
+48:21.000 --> 48:30.000
+Und das Warnich-Manuskript funktioniert halt in der Worthäufigkeit wie eine Zipfverteilung, was halt eben einige dazu hat schließen lassen.
+
+48:30.000 --> 48:35.000
+Okay, es ist halt eben doch, es muss Sinn haben, weil es ist so ähnlich wie eine natürliche Sprache.
+
+48:35.000 --> 48:41.000
+Dann kannst du den Informationsgehalt messen. Das ist jetzt wieder ein bisschen komplizierter zu erklären.
+
+48:41.000 --> 48:43.000
+Das ist die Geschichte mit der Entropie.
+
+48:43.000 --> 48:44.000
+Genau.
+
+48:44.000 --> 48:45.000
+Okay, ich bin bereit.
+
+48:45.000 --> 48:51.000
+Sollen wir. Entropie ist eigentlich ein Begriff aus der Thermodynamik, aus der Physik.
+
+48:51.000 --> 48:55.000
+Und hier sieht man, was halt eben alles im Warnich-Manuskript zusammenkommt.
+
+48:55.000 --> 48:59.000
+Und ist mehr oder weniger das Maß für Unvorhersagbarkeit.
+
+48:59.000 --> 49:05.000
+Das heißt, je unvorhersagbarer was ist, desto höher ist die Entropie.
+
+49:05.000 --> 49:11.000
+Das kann man als Beispiel machen. Das ist halt eben in der Physik, das ist halt, kann man das sehen bei einem Gasgemisch.
+
+49:11.000 --> 49:16.000
+Also erstens strebt das Universum der vollkommenen Entropie entgegen.
+
+49:16.000 --> 49:20.000
+Kann man auch Kältetod nennen oder vollkommene Ordnung oder vollkommene Unordnung, was auch immer.
+
+49:20.000 --> 49:26.000
+Wenn ich jetzt, was nehmen wir denn mal, nehmen wir was Wohlriechendes und keine Stinkbombe.
+
+49:26.000 --> 49:30.000
+Was haben wir denn Wohlriechendes? Sag mal was Wohlriechendes.
+
+49:30.000 --> 49:33.000
+Einen Rosenduft.
+
+49:33.000 --> 49:36.000
+Einen Rosenduft. Ja, eine sehr stark duftende Rose.
+
+49:36.000 --> 49:38.000
+Stell dich jetzt in die Ecke von dem Zimmer.
+
+49:38.000 --> 49:40.000
+Ja, also ich bringe sie halt rein und stelle sie dahin.
+
+49:40.000 --> 49:46.000
+Und mit der Zeit, ja, es ist, obwohl Rosenduft ist schwierig, weil der ist halt eben, der geht von der Rose aus.
+
+49:46.000 --> 49:48.000
+Aber es verteilt sich halt mit der Zeit im Raum.
+
+49:48.000 --> 49:54.000
+Nehmen wir mal an, die Rose hätte endlich viele Rosenduftmoleküle zu versprühen.
+
+49:54.000 --> 49:56.000
+Die wären am Anfang alle in dieser Ecke.
+
+49:56.000 --> 50:02.000
+Das heißt, die Entropie wäre ziemlich klein, weil es wäre ziemlich gut vorhersagbar, wo wir so ein Rosenduftmolekül erwischen.
+
+50:02.000 --> 50:04.000
+Nämlich genau da hinten in der Ecke.
+
+50:04.000 --> 50:09.000
+Wenn wir halt eben die Zeit wirken lassen, dann, ne, Gase haben halt die Eigenschaft, dass sie sich vermischen.
+
+50:09.000 --> 50:12.000
+Dann haben wir den Rosenduft halt irgendwann ganz im Zimmer.
+
+50:12.000 --> 50:14.000
+Wenn wir das Fenster aufmachen, irgendwann auf der ganzen Welt.
+
+50:14.000 --> 50:23.000
+Und wie gesagt, am Anfang Entropie ziemlich niedrig, weil die Information oder halt eben der Rosenduft genau da an der Ecke ist.
+
+50:23.000 --> 50:33.000
+Wenn man ein paar Stunden wartet und die Rose halt einfach nicht weiter duftet, irgendwann aufhört und all die ihre Moleküle verschleudert hat, ist es im Raum irgendwann überall gleichwahrscheinlich.
+
+50:33.000 --> 50:36.000
+Das heißt, es ist die vollständige Entropie innerhalb von diesem Raum.
+
+50:36.000 --> 50:45.000
+Weil auch dann kann ich halt eben nicht mehr genau vorhersagen, wo greife ich jetzt hin oder wo schnuppere ich und kriege da am ersten das, am ehesten Rosenduftmolekül ab.
+
+50:45.000 --> 50:47.000
+Das wusste ich am Anfang halt eben sehr viel besser.
+
+50:47.000 --> 50:49.000
+Deswegen geht man immer so nah an die Rosen dran.
+
+50:49.000 --> 50:50.000
+Da stehen auch welche.
+
+50:50.000 --> 50:58.000
+Gut, was hat jetzt zum Henker das Wort nicht mehr damit zu tun oder überhaupt Texte oder halt Sprache?
+
+50:58.000 --> 51:00.000
+Auch da ist das messbar.
+
+51:00.000 --> 51:05.000
+Also Sprache tendiert jetzt nicht dazu, irgendwie die Entropie zu erhöhen, aber man kann die Entropie messen.
+
+51:05.000 --> 51:07.000
+Und zwar auf verschiedenen Ebenen.
+
+51:07.000 --> 51:13.000
+Lassen wir mal H0 weg, also die Entropie 0-ter Ordnung.
+
+51:13.000 --> 51:16.000
+Und die Entropie 1-ter Ordnung ist genau.
+
+51:16.000 --> 51:22.000
+Wenn alle Zeichen gleich häufig wären, dann wäre das quasi, das wäre die höchste Entropie.
+
+51:22.000 --> 51:28.000
+Es kommt darauf an, wie groß mein Alphabet ist, wie hoch die Entropie insgesamt werden kann.
+
+51:28.000 --> 51:39.000
+Weil das halt eben ein Produkt der von der Wahrscheinlichkeit ist mit dem Logarithmus der Wahrscheinlichkeit.
+
+51:39.000 --> 51:42.000
+Ich hoffe, ich habe das jetzt richtig gesagt.
+
+51:42.000 --> 51:47.000
+Ja, also es ist halt einfach eine mathematische Formel, relativ einfach zu errechnen, aber es gibt halt eine Grenze nach oben.
+
+51:47.000 --> 51:48.000
+Wie hoch kann die Entropie sein?
+
+51:48.000 --> 51:55.000
+Kann halt eben bei Buchstaben so sein, wenn man Text hat, oder ne, wenn man überhaupt halt eben nur Einzelbuchstaben betrachtet.
+
+51:55.000 --> 51:58.000
+Wenn alle gleich häufig vorkommen, ist die Entropie am höchsten.
+
+51:58.000 --> 52:11.000
+Wenn ich ein Alphabet habe, das zwar auch aus 24 Buchstaben besteht oder 26, wovon aber halt 98% A sind und der Rest halt eben nur einmal vorkommt,
+
+52:11.000 --> 52:19.000
+dann kann ich weniger Informationen damit ausdrücken, weil die Entropie halt eben auch tatsächlich niedriger ist.
+
+52:19.000 --> 52:25.000
+Das heißt, die Vorhersage, ich würde halt immer A tippen, ja in Deutschland würde ich immer E tippen und hätte damit zu 17% Recht.
+
+52:25.000 --> 52:32.000
+In meiner Sprache jetzt halt eben wohl die meisten As vorkommen, hätte ich halt eben zu 98% oder zu 90% Recht.
+
+52:32.000 --> 52:35.000
+Ne, da, auch das kann man messen, aber das ist nichts anderes als Buchstaben zählen.
+
+52:35.000 --> 52:37.000
+Jetzt gibt es aber auch die Verbundentropie.
+
+52:37.000 --> 52:42.000
+Das ist die, wie wahrscheinlich ist es, einen Buchstaben vorherzusagen, wenn ich die Buchstaben vorher kenne?
+
+52:42.000 --> 52:45.000
+Wenn ich C hab, weiß ich, es kommt ganz oft H.
+
+52:45.000 --> 52:50.000
+Genau, wenn du ein Q hast im Deutschen, dann kannst du dir fast sicher sein, dass danach ein U kommt.
+
+52:50.000 --> 52:56.000
+Was nichts anderes heißt, als dass dieses U quasi redundant ist.
+
+52:56.000 --> 52:59.000
+Das trägt keine Informationen, die ganze Information ist eigentlich schon im Q drin.
+
+52:59.000 --> 53:04.000
+Also das U danach zu lesen bringt dir eigentlich nichts mehr, außer du hast halt irgendeinen eigenen Namen.
+
+53:04.000 --> 53:08.000
+Oder doch ein Wort, was uns jetzt nicht einfällt, es kommt aber sehr, sehr selten vor.
+
+53:08.000 --> 53:11.000
+Genau, aber C und H ist ein gutes Beispiel.
+
+53:11.000 --> 53:17.000
+Und jetzt kannst du halt auch darüber, über diese Vorhersagewahrscheinlichkeit des nächsten Buchstabens,
+
+53:17.000 --> 53:21.000
+das heißt halt eben einfach wieder zählen, aber jetzt nicht Einzelbuchstaben zählen, sondern quasi Buchstabenpaare,
+
+53:21.000 --> 53:23.000
+darüber einen Mittelwert bilden.
+
+53:23.000 --> 53:32.000
+Und auch da, je besser du Buchstaben vorhersagen kannst, desto niedriger ist die Entropie, je schlechter, desto höher.
+
+53:32.000 --> 53:37.000
+Weil je schlechter du vorhersagen kannst, desto mehr Informationen kannst du reinpacken in deinen Ausdruck,
+
+53:37.000 --> 53:42.000
+den du halt mit den Buchstaben oder mit den Tönen ausdrucken willst.
+
+53:42.000 --> 53:45.000
+Ich hoffe, das war jetzt noch nicht zu verwirrend, oder?
+
+53:45.000 --> 53:47.000
+Nee, ich glaube, es ging noch.
+
+53:47.000 --> 53:54.000
+So, und diese Entropie ist halt auch sehr interessant im Wunsch, ich meine, es köpft,
+
+53:54.000 --> 53:59.000
+weil die ist tatsächlich sehr viel niedriger als die Entropie oder diese Verbundentropiewerte,
+
+53:59.000 --> 54:02.000
+die wir für natürliche Sprachen messen.
+
+54:02.000 --> 54:08.000
+Das heißt, im Warnig-Manuskript scheint sehr viel weniger Informationen codiert worden sein zu können,
+
+54:08.000 --> 54:10.000
+als wir es in natürlichen Sprachen tun.
+
+54:10.000 --> 54:14.000
+Was ist denn so der Entropiewert von einer natürlichen Sprache?
+
+54:14.000 --> 54:20.000
+Was die Verbundentropie angeht, ich habe jetzt gerade einen Wert von 4, irgendwas im Kopf,
+
+54:20.000 --> 54:22.000
+ich müsste in meiner TIST nochmal nachgucken.
+
+54:22.000 --> 54:28.000
+Jedenfalls ist die Entropie vom Warnig-Manuskript, also ich habe das auch für verschiedene natürliche Sprachen,
+
+54:28.000 --> 54:35.000
+untersucht und auch halt eben tatsächlich für historische Texte, ich habe damals welche aus dem 15. oder 16. Jahrhundert genommen,
+
+54:35.000 --> 54:40.000
+und da ist die Entropie, also die nimmt sich nicht viel, man hat irgendwie Werte, wenn ich mich richtig erinnere,
+
+54:40.000 --> 54:43.000
+also zwischen 3,9 und 4,2.
+
+54:43.000 --> 54:47.000
+Das Warnig-Manuskript ist halt irgendwo zwischen 2,4 und 2,8.
+
+54:47.000 --> 54:52.000
+Das heißt, es ist halt eben tatsächlich sehr viel niedriger, was diese Verbundentropie angeht.
+
+54:52.000 --> 55:01.000
+Was halt auch einige Forscher zu der Hypothese verleitet hat, nach einer natürlichen Sprache zu suchen,
+
+55:01.000 --> 55:03.000
+die eine ähnlich niedrige Entropie hat.
+
+55:03.000 --> 55:08.000
+Verbundentropie, und die sind tatsächlich auch fündig geworden, nämlich hawaiianisch.
+
+55:08.000 --> 55:17.000
+Jetzt, obwohl Hawaii ist so weit weg von Südamerika oder von Nordamerika wie Europa, glaube ich,
+
+55:17.000 --> 55:25.000
+ist es ein gutes Stück, aber im Nachfolgend wurde dann auch gezeigt, dass dieser Wert nicht direkt vergleichbar war,
+
+55:25.000 --> 55:33.000
+weil in dem Fall das hawaiianische nur mit, ich glaube, 14 verschiedenen Buchstaben hochstabiert wird,
+
+55:33.000 --> 55:37.000
+und dann ist halt die Buchstabenentropie selber schon niedrig.
+
+55:37.000 --> 55:42.000
+Und die Verbundentropie natürlich auch, das ist quasi nur eine Folge davon, dass es weniger Buchstaben gibt.
+
+55:42.000 --> 55:48.000
+Und deswegen wurde dann tatsächlich ein neuer Wert angenommen, nämlich die Buchstabenentropie
+
+55:48.000 --> 55:54.000
+von der Verbundentropie abzuziehen, und da war das Warnig-Manuskript eben wieder herausragend niedrig,
+
+55:54.000 --> 56:00.000
+während Hawaiianisch sich in die anderen eingegliedert hat, weil die Differenz zwischen den beiden nicht so hoch war.
+
+56:00.000 --> 56:06.000
+Aber das heißt, wenn man sich das Manuskript anschaut, dann verhält es sich auf der einen Seite ganz häufig
+
+56:06.000 --> 56:12.000
+wie eine natürliche Sprache, also es gibt Eigenschaften, wo das Ganze eigentlich wirkt,
+
+56:12.000 --> 56:17.000
+als wäre es ein Stück weit kodiert, weil wenn es eine natürliche Sprache wäre, die man kodiert hat,
+
+56:17.000 --> 56:19.000
+dann würde es sich ungefähr so verhalten.
+
+56:19.000 --> 56:23.000
+Und auf der anderen Seite wirkt es aber manchmal so wie diese Entropie-Geschichte,
+
+56:23.000 --> 56:28.000
+so als wäre es eigentlich unsinniger Text, der keine Informationen enthält.
+
+56:28.000 --> 56:31.000
+Und das würde dann vielleicht eher für einen Hawks sprechen.
+
+56:31.000 --> 56:34.000
+Ja, wobei die Entropie-Sache jetzt nicht unbedingt für einen Hawks spricht,
+
+56:34.000 --> 56:41.000
+sondern halt einfach nur für eine Verschlüsselung, die sehr viel redundante Informationen dabei hat.
+
+56:41.000 --> 56:45.000
+Wenn du dir zum Beispiel vorstellst, dass du einzelne Buchstaben durch ganze Wörter verschlüsselst,
+
+56:45.000 --> 56:50.000
+solche Schiffern gibt es, dann ist deine Information immer nur ein Buchstaben lang,
+
+56:50.000 --> 56:53.000
+aber deine Verschlüsselung ist ein ganzes Wort lang.
+
+56:53.000 --> 56:58.000
+Das heißt, tatsächlich hast du dann weniger Informationen drin,
+
+56:58.000 --> 57:02.000
+aber es ist halt tatsächlich immer noch eine Verschlüsselung, es kommt halt eben dann auf die Methode an.
+
+57:02.000 --> 57:12.000
+Was für einen Hawks spricht, ist, dass wir trotz all unseren Einsatzes an Mann und Frau
+
+57:12.000 --> 57:17.000
+ja halt nie darauf gekommen sind, was zum Henker in diesem Manuskript drinsteht.
+
+57:17.000 --> 57:19.000
+Und alles Mögliche schon ausprobiert wurde.
+
+57:19.000 --> 57:25.000
+Und dass es halt eben zu einer Zeit geschrieben wurde, wo es an unserem Ego kratzen würde, glaube ich.
+
+57:25.000 --> 57:31.000
+Wenn ich mich jetzt mal unter uns so dazuzähle, an allen Leuten, die sich halt eben damit beschäftigt haben,
+
+57:31.000 --> 57:40.000
+dass tatsächlich eine Schiffre, die 600 Jahre alt ist, so geschrieben wurde, dass wir die halt heute nicht lesen können.
+
+57:40.000 --> 57:44.000
+Da würde ich gleich nochmal nachhaken, weil das finde ich nämlich sehr spannend, einen Punkt.
+
+57:44.000 --> 57:49.000
+Vorher aber noch würde mich interessieren, wenn ich mir vornehmen würde,
+
+57:49.000 --> 57:55.000
+ich mache jetzt einfach einen Text 200 Seiten lang, der keine Informationen enthält,
+
+57:55.000 --> 58:02.000
+und ich versuche einfach, das Wollnich-Manuskript quasi nachzubauen, aber mit meinem eigenen Text.
+
+58:02.000 --> 58:08.000
+Wie wahrscheinlich wäre das, dass ich das schaffen würde mit...
+
+58:08.000 --> 58:11.000
+Also du meinst, du könntest aus dem Stehgreif halt eben so was ähnliches,
+
+58:11.000 --> 58:14.000
+könntest du so einen Text produzieren, der diese Eigenschaften hat?
+
+58:14.000 --> 58:21.000
+Ja. Das wäre eigentlich... Ich weiß gar nicht, ob auf so ein Experiment jemals gemacht wurde,
+
+58:21.000 --> 58:24.000
+einfach jemanden mal hinzusetzen.
+
+58:24.000 --> 58:30.000
+Ich glaube, es spricht ziemlich viel dagegen und auch die Literatur zum Wollnich-Manuskript sagt,
+
+58:30.000 --> 58:37.000
+dass es eigentlich sehr viel dagegen spricht, allein aus dem Grund, dass 200 Seiten vollzuschreiben ist kein Pappenstiel.
+
+58:37.000 --> 58:46.000
+Und man würde, glaube ich, tatsächlich in sehr viel mehr Muster verfallen, gleiche Abfolge von Wörtern.
+
+58:46.000 --> 58:53.000
+Also wenn man halt tatsächlich keine Hilfsmittel hätte, dann würde man halt einen Text erzeugen,
+
+58:53.000 --> 58:56.000
+der wahrscheinlich ganz andere Eigenschaften hätte, an die man ansehen würde,
+
+58:56.000 --> 59:02.000
+dass da irgendwer halt eben versucht hat, was zu Papier zu bringen, was keinen Sinn hat.
+
+59:02.000 --> 59:05.000
+Also ich denke, man würde es ihm ansehen und deswegen...
+
+59:05.000 --> 59:12.000
+Also es ist halt eben, glaube ich, tatsächlich kaum möglich, so viel Variation da unterzubringen
+
+59:12.000 --> 59:16.000
+und andererseits halt eben dann doch wieder so stringent zu sein.
+
+59:16.000 --> 59:20.000
+Das heißt, man bräuchte irgendeine Methode, irgendwas, woran man sich festhalten kann,
+
+59:20.000 --> 59:27.000
+was einem hilft, so eine Art von Text zu generieren, in der Art von Regelmäßigkeit, wie er uns da vorliegt.
+
+59:27.000 --> 59:37.000
+Und dazu wurden halt tatsächlich schon mindestens zwei oder halt eben zumindest zwei bekannte Verfahren vorgelegt,
+
+59:37.000 --> 59:43.000
+die sich genau damit beschäftigen, wie erzeuge ich einen völlig sinnlosen Text,
+
+59:43.000 --> 59:48.000
+aber eben in dieser schönen Regelmäßigkeit, wie ihn das Wollnich-Manuskript uns zeigt.
+
+59:48.000 --> 59:50.000
+Und ist das gelungen schon?
+
+59:50.000 --> 59:58.000
+Wie gesagt, es gibt halt diese zwei Ansätze, diese Hoax-Ansätze, und ich glaube, einer ist gelungen.
+
+59:58.000 --> 01:00:02.000
+Ja, der andere bin ich eher skeptisch. Der andere ist halt eben der Ältere,
+
+01:00:02.000 --> 01:00:05.000
+ist von Gordon Ruck 2004 das erste Mal erdacht.
+
+01:00:05.000 --> 01:00:10.000
+Der ist nämlich auch auf die Suche gegangen nach Verschlüsselungsverfahren, die es damals schon gab.
+
+01:00:10.000 --> 01:00:17.000
+Allerdings 2004 vor der Radiokarbondatierung, das heißt, der ist halt eben vom Ende 16., Anfang 17. Jahrhundert aus.
+
+01:00:17.000 --> 01:00:23.000
+Und hat da zum Beispiel das Kardangitter gefunden. Sagt dir das Kardangitter was?
+
+01:00:23.000 --> 01:00:33.000
+Maria Stewart soll das benutzt haben, um aus dem Gefängnis heraus mit ihrem Stab zu kommunizieren.
+
+01:00:33.000 --> 01:00:39.000
+Es geht darum, dass du eine Art von Schablone hast, und in dieser Schablone sind quasi so Lücken ausgeschnitten.
+
+01:00:39.000 --> 01:00:45.000
+Und wenn du jetzt diese Schablone über einen Text schiebst, dann werden immer andere Wörter, quasi die Signifikanten,
+
+01:00:45.000 --> 01:00:51.000
+auch das ist wieder halt eben sehr viel Nullinformation. Du schreibst halt eben einen Text über eine Urlaubskarte,
+
+01:00:51.000 --> 01:00:57.000
+eine sehr ausführliche Urlaubskarte, und dann hast du halt eben tatsächlich so ein Ding, was genauso groß ist wie deine Urlaubskarte,
+
+01:00:57.000 --> 01:01:04.000
+und das hat halt Lücken. Und genau die Wörter hinter diesen Lücken oder die Buchstaben sind halt eben die, die du brauchst.
+
+01:01:04.000 --> 01:01:09.000
+Das kannte ich vom Computerspielen früher, weil die waren oft so als Code für Schlüssels,
+
+01:01:09.000 --> 01:01:16.000
+und dass man sie nicht kopieren konnte, hatten sie dann so diese... Also man musste das dann über die Anleitung legen,
+
+01:01:16.000 --> 01:01:19.000
+und dann war dann das Passwort für das Spiel.
+
+01:01:19.000 --> 01:01:24.000
+Genau, weil die Anleitung hatte man ja, wenn man das Spiel gekauft hatte und nicht raubkopiert hat.
+
+01:01:24.000 --> 01:01:28.000
+Man hat ja nie Anleitungen raubkopiert, sondern immer nur das Spiel.
+
+01:01:28.000 --> 01:01:29.000
+Genau.
+
+01:01:29.000 --> 01:01:37.000
+Ja, genauso funktionierte das. So, und er hat jetzt aber gesagt, dass dieses Kardangitter wird nicht über einen Text geschoben,
+
+01:01:37.000 --> 01:01:43.000
+sondern über eine Tabelle, und zwar über eine Tabelle von Silben oder von Morphemen.
+
+01:01:43.000 --> 01:01:48.000
+Also, beunruhigte Wörter haben, da sind wir noch gar nicht zugekommen, aber haben einen sehr speziellen Aufbau,
+
+01:01:48.000 --> 01:01:54.000
+und man kann auf die Idee kommen, dass die quasi aus Morphemen, aus Wortbestandteilen oder aus Silben bestehen.
+
+01:01:54.000 --> 01:02:04.000
+Wir wissen nicht, was es ist. Also, Morphemen wäre bedeutungstragend, Silben ist halt eben tatsächlich nur ein Ding, was man zusammen ausspricht.
+
+01:02:04.000 --> 01:02:11.000
+Also, wie Buchstabe und Glyph ist es quasi Morphemen und Silbe?
+
+01:02:11.000 --> 01:02:18.000
+Ne, Silbe hat halt eben mit der Aussprache zu tun, Morphemen mit der Bedeutung.
+
+01:02:18.000 --> 01:02:23.000
+Wenn du sowas hast wie Segler, das ist auch ein Beispiel aus meiner DIS,
+
+01:02:23.000 --> 01:02:29.000
+weil da haben dann so Auszeichnungssprachen wie XML Probleme mit, Silben und Morpheme gleichzeitig auszuzeigen.
+
+01:02:29.000 --> 01:02:39.000
+Also, Segler ist ja Silbe, Seg und Ler, und Morpheme wäre Siegel, weil es kommt ja von Segeln,
+
+01:02:39.000 --> 01:02:46.000
+das halt eben das Schwa ist mal wieder irgendwo hin diffundiert, also Siegel und R.
+
+01:02:46.000 --> 01:02:49.000
+Also, das heißt, du hast halt eben da überschneidende Grenzen zwischen.
+
+01:02:49.000 --> 01:02:57.000
+Das eine hat mit der Bedeutung zu tun, Segeln, und dann halt eben das Affix, was da quasi einen nomina,
+
+01:02:57.000 --> 01:03:00.000
+quatschen Nomen daraus macht oder jemanden, der segelt.
+
+01:03:00.000 --> 01:03:08.000
+Und Silbe hat halt tatsächlich nur mit der Aussprache zu tun, weil Siegel, ja, hört sich auch blöd an.
+
+01:03:08.000 --> 01:03:18.000
+Genau, und ja, also, Rock hat da jetzt quasi sein Gitter gehabt, so eine Schablone, wo Sachen ausgeschrieben waren
+
+01:03:18.000 --> 01:03:26.000
+und quasi eine riesige Tabelle von Wortbestandteilen und hat gesagt, okay, wenn man halt eben diese Schablone da jetzt halt drüber schiebt,
+
+01:03:26.000 --> 01:03:28.000
+dann findet man immer wieder ein neues Wort.
+
+01:03:28.000 --> 01:03:32.000
+Und wenn man die Worte hintereinander schreibt, dann kriegt man so was raus, wie das Wort nicht mehr auskribbt.
+
+01:03:32.000 --> 01:03:40.000
+Höllisch komplizierte Methode, vor allem halt eben, weil er sehr viele verschiedene Eigenschaften dann noch nachträglich versucht hat zu erklären.
+
+01:03:40.000 --> 01:03:46.000
+Und halt eben mit Auswahl muss man halt eben ganz genau wissen, von wo nach wo man halt eben dieses Gitter verlegt
+
+01:03:46.000 --> 01:03:48.000
+und was man dann nicht mehr benutzen darf.
+
+01:03:48.000 --> 01:03:49.000
+Sehr viele Sonderregeln.
+
+01:03:49.000 --> 01:03:54.000
+Es war ein innovativer Ansatz, vor allem der erste, der gesagt hat, okay, ich suche eine Methode,
+
+01:03:54.000 --> 01:04:03.000
+die mir völlig sinnlosen Text erzeugt, aber auf eine Art und Weise regelhaft, dass ich dann, dass ich quasi einen Algorithmus habe.
+
+01:04:03.000 --> 01:04:11.000
+Also, es ist nichts mehr als ein Algorithmus, halt ein großes, eine große Tabelle zu haben
+
+01:04:11.000 --> 01:04:14.000
+und da halt eben was drüber zu schieben in einer gewissen Reihenfolge.
+
+01:04:14.000 --> 01:04:21.000
+Einen interessanteren Ansatz, der ist etwas jünger, der ist von Thorsten Timm das erste Mal, glaube ich, 2014 publiziert.
+
+01:04:21.000 --> 01:04:27.000
+Da habe ich auch schon drüber geschrieben oder durfte als erster drüber schreiben, weil er hatte mich damals angeschrieben.
+
+01:04:27.000 --> 01:04:31.000
+Ich hatte meine Dish schon draußen, da meinte, was halten Sie von dem Ansatz?
+
+01:04:31.000 --> 01:04:34.000
+Und ich fand den gut, weil der halt eben mit so wenig auskommt.
+
+01:04:34.000 --> 01:04:40.000
+Den Namen durfte ich dann noch geben, Autokupisten-Theorie habe ich das genannt.
+
+01:04:40.000 --> 01:04:43.000
+Nämlich jemand, der von sich selbst die ganze Zeit abgeschrieben hat.
+
+01:04:43.000 --> 01:04:46.000
+Und das kommt halt eben tatsächlich sehr gut hin.
+
+01:04:46.000 --> 01:04:57.000
+Das quasi, also im Grunde kann man sich das so vorstellen, jemand, Mann oder Frau, wer auch immer, hat initial quasi einen Satz hingeschrieben,
+
+01:04:57.000 --> 01:05:04.000
+also einen Satz ohne, ohne Punktuation, aber halt eben mit verschiedenen Wörtern drin, mit völlig neuer Schrift
+
+01:05:04.000 --> 01:05:10.000
+und hat dann diesen Satz immer wieder abgewandelt und halt eben Teilsätze übernommen und dann halt eben die auch wieder abgewandelt
+
+01:05:10.000 --> 01:05:20.000
+und sich halt ein bestimmtes System gehabt, aber auch sehr kreativ gewesen, also halt, was halt eben genau drüber steht,
+
+01:05:20.000 --> 01:05:25.000
+halt irgendwann mal nach unten übernommen, dann halt eben mal einen Buchstaben eingefügt oder den Glyph eingefügt,
+
+01:05:25.000 --> 01:05:32.000
+eine andere weggeschmissen und Torsten Tim hat eben dazu auch einen Algorithmus erstens präsentiert,
+
+01:05:32.000 --> 01:05:37.000
+was noch nicht viel beweist, weil damals hatte man keine Maschinen, auf denen man Algorithmen laufen lassen kann.
+
+01:05:37.000 --> 01:05:43.000
+Daraus aber zum Beispiel auch eine schöne iPad-App gebaut, dass das jeder nachprüfen kann und sich sein eigenes,
+
+01:05:43.000 --> 01:05:51.000
+freundlich Manuskript quasi beschreiben lassen kann und er kommt halt eben schon verdammt nah dran an die Eigenschaften
+
+01:05:51.000 --> 01:05:57.000
+und braucht halt tatsächlich sehr viel weniger Erklärung. Ja, und halt dieses, was ich meinte, bei dir hört es halt irgendwann auf,
+
+01:05:57.000 --> 01:06:04.000
+kreativ zu sein, du verfällst immer in die gleichen Muster, durch dieses Abschreiben braucht man halt eben die Kreativität tatsächlich
+
+01:06:04.000 --> 01:06:10.000
+nur in der Abverhandlung, also halt eben mal das Wort verändern und dann halt eben wieder abschreiben und halt eben woanders gucken.
+
+01:06:10.000 --> 01:06:15.000
+Das heißt, die Methode beschreibt das schon ziemlich gut, hat aber natürlich den gewichtigen Nachteil, dass das alles nur Quatsch ist
+
+01:06:15.000 --> 01:06:20.000
+und wir halt nie irgendwas Schönes aus dem Bonnich Manuskript werden rauslesen können.
+
+01:06:20.000 --> 01:06:28.000
+Das ist ja generell wahrscheinlich ein Problem der Hoax-Theorie, man kann die nie verifizieren, weil man kann, also man hat die damit verifiziert,
+
+01:06:28.000 --> 01:06:33.000
+indem man selbst so einen Hoax-Text verfassen kann, aber damit ist es das auch schon.
+
+01:06:33.000 --> 01:06:43.000
+Genau, weil also was, ein Algorithmus, der mir das Bonnich Manuskript genauso, aber halt für ihn völlig ohne Sinn nachproduziert, beweist halt tatsächlich gar nichts.
+
+01:06:43.000 --> 01:06:54.000
+Nur ist es halt tatsächlich momentan zumindest die Theorie, die, wie gesagt, ich habe da gerne auch kein Rasiermesser, was ich vielleicht mal kurz für ein Jahr gehalten habe,
+
+01:06:54.000 --> 01:07:02.000
+gerne weitergegeben, weil das ist halt tatsächlich eine schmale Erklärung und so lange halt eben keiner kommt und sagt, ich habe aber hier eine Methode,
+
+01:07:02.000 --> 01:07:10.000
+wo ich vielleicht ein bisschen mehr Aufwand betreiben muss, aber dafür einen Text verschlüsseln kann, würde ich sagen, das ist halt im Moment die führende.
+
+01:07:10.000 --> 01:07:18.000
+Ja, aber was kann man schon verifizieren, in der Wissenschaftstheorie, verifiziert werden kann halt eh nichts, aber vielleicht kann man irgendwann diese Methode falsifizieren,
+
+01:07:18.000 --> 01:07:29.000
+indem jemand um die Ecke kommt und sagt, okay, ich habe jetzt quasi deine Arbeit genommen, aber diese Abwandlungen, die da gemacht werden in den einzelnen Übernahmen
+
+01:07:29.000 --> 01:07:36.000
+und in der Kopie, diese Abwandlungen sind genau das, was wir suchen an Bedeutung, die wir da rausholen wollen.
+
+01:07:36.000 --> 01:07:46.000
+Das wäre meiner Meinung nach möglich, aber halt eben doch, da müsste sich tatsächlich jemand mal anschließen und sehr, sehr viel Zeit damit verbringen, ohne verrückt zu werden.
+
+01:07:46.000 --> 01:08:02.000
+Wäre denn diese Autokopisten-Theorie schon was, was wissensmäßig im späten Mittelalter, frühen Neuzeit auch schon als Wissen da war? Also wäre das was, was die auch gemacht haben könnten damals?
+
+01:08:02.000 --> 01:08:13.000
+Mir ist kein anderes Beispiel bekannt, wo jemand so einen Text verfasst hat. Ja, warum auch? Also das ist natürlich halt eben auch eine Schwäche der Theorie, warum macht man sowas?
+
+01:08:13.000 --> 01:08:23.000
+Warum schreibt man halt eben von sich selber ab und schreibt halt einen Tagamentplatz nach dem anderen, macht halt eben auch noch Zeichnungen darauf. So für was?
+
+01:08:23.000 --> 01:08:38.000
+Also wie gesagt, mir ist jetzt kein anderes Beispiel dafür bekannt, dass sich jemand selbst abschreibt immer wieder. Das ist irgendwie so, wie Bart Simpson die Tafel vollschreiben, immer mit dem gleichen Satz, nur halt immer leicht abgewandelt.
+
+01:08:38.000 --> 01:08:55.000
+Das macht ja keiner eigentlich. Ja, das gehört schon auch zu den seltsamen Dingen des Voynich-Manuskripts, dass es nicht noch mehr Texte gibt, die auch so diese Eigenschaften aufweisen. Also dass wir wirklich nur dieses eine Werk haben.
+
+01:08:55.000 --> 01:09:06.000
+Ja, es ist halt eben tatsächlich ein Unikat. Vielleicht auch eine Zeitbombe in der Wissenschaftsgeschichte, was immer drinsteht.
+
+01:09:06.000 --> 01:09:21.000
+Es ist eine Zeit, die auch wahnsinnig prekär war in dieser Hinsicht. Also das Pergament, die Tinte, das Wissen schreiben zu können. Es ist jetzt nicht so, dass das eine Massenwade gewesen wäre wie heute Papier oder so.
+
+01:09:21.000 --> 01:09:32.000
+Könnte natürlich auch sein, dass es jemand geschrieben hat, der gar nicht schreiben konnte und halt irgendwo mal Zeichen gesehen hat und die halt eben versucht hat, dann tatsächlich nachzunahmen und dachte, das ist es halt jetzt.
+
+01:09:32.000 --> 01:09:38.000
+Aber dann wiederum widerspricht es dem, dass man sagt, das würde mehr Regelmäßigkeit erzeugen.
+
+01:09:38.000 --> 01:09:51.000
+Das verhält ja immer noch die Autokupisten-Theorie aus, glaube ich. Also dass dieses von sich selbst abschreiben und dadurch halt eben die Regelhaftigkeit erzeugen, die wir halt kennen. Und diese Vorhersagbarkeit.
+
+01:09:51.000 --> 01:10:03.000
+Wie gesagt, wir sind ja bei der Entropie, weiß nicht, ob ich den Schlusssatz gesagt habe, das Freundlichmanuskript enthält halt auf jeden Fall weniger Informationen, vielleicht gar keine Informationen, aber auf jeden Fall weniger als natürliche Sprachen.
+
+01:10:03.000 --> 01:10:18.000
+Deswegen, weil halt Buchstaben oder halt Lüften so gut verhersagbar sind. Sehr viel besser, also nicht hundertprozentig, aber sehr viel besser als das im Deutschen oder halt eben in anderen natürlichen Sprachen, die man so kennt, ist.
+
+01:10:18.000 --> 01:10:29.000
+Meine eine Theorie, die mir sehr gut gefallen hat, ist, es könnte jemand sein, der Chinesisch gehört hat und das Ganze einfach so verschriftlicht hat, wie es gehört hat, aber nicht verstanden hat, was ihm erzählt wurde.
+
+01:10:29.000 --> 01:10:42.000
+Ja, weil mir das Gegenargument dafür jetzt nicht einfällt, ist auch tatsächlich schon älter und auch irgendwie so in der Seidenstraße oder Marco-Polo-Ecke.
+
+01:10:42.000 --> 01:10:49.000
+Es würde halt auch historisch hinkommen, aber auch da ist es halt wieder so, deshalb wird das gemacht.
+
+01:10:49.000 --> 01:10:54.000
+Ist es dann tatsächlich halt fernöstlich entstanden und dann irgendwann zu uns gekommen oder nicht?
+
+01:10:54.000 --> 01:11:04.000
+Und es hat halt tatsächlich auch, ja, also es wäre schon sehr, sehr komische Chinesisch, was verstanden worden wäre, weil es hat dann doch nicht so viele Gemeinsamkeiten.
+
+01:11:04.000 --> 01:11:06.000
+Und die Zeichnungen würden nicht passen.
+
+01:11:06.000 --> 01:11:13.000
+Ja, das wahrscheinlich auch, also zumindest halt eben diese Schwalbenschwanzburg weiß ich jetzt nicht.
+
+01:11:13.000 --> 01:11:20.000
+Also das es die in Südamerika nicht gegeben hatte, weiß ich, aber ja, auch ansonsten, es sieht schon alles nach einer mitteleuropäischen Herkunft aus.
+
+01:11:20.000 --> 01:11:30.000
+Es ist vergleichbar mit anderen Dokumenten in Mitteleuropa auf mancher Art und Weise, auf andere dann halt eben wieder überhaupt nicht.
+
+01:11:30.000 --> 01:11:37.000
+Wie alles, das ist, das Bonnich Manuskript, da ist halt eben alles drin und alles ist halt eben auch nicht drin.
+
+01:11:37.000 --> 01:11:48.000
+Ich meine, und es könnte natürlich auch sein, dass ganz, dass ähnliche Dokumente einfach nicht überliefert sind, weil, ich meine, wir haben viele, viele Schriftstücke nicht mehr, die im Mittelalter verfasst wurden.
+
+01:11:48.000 --> 01:11:55.000
+Das ist wahr. Nur es ist halt tatsächlich halt so weit weg von einem anderen.
+
+01:11:55.000 --> 01:12:03.000
+So ich glaube zu allen, zu den meisten anderen Schriftstücken, zumindest die, die wir kennen, gibt es halt irgendwie so Brücken.
+
+01:12:03.000 --> 01:12:10.000
+Und die gibt es halt eben zum Bonnich Manuskript nur sehr spärlich oder eigentlich gar nicht. Das ist halt eben viel weiter weg.
+
+01:12:10.000 --> 01:12:19.000
+Wie so ein Helgoland zum restlichen Festland oder Hawaii zu den restlichen USA.
+
+01:12:19.000 --> 01:12:24.000
+Und das ist halt eben tatsächlich halt schwierig, schwierig zu erklären.
+
+01:12:24.000 --> 01:12:35.000
+Ja, aber auch da, also ich würde da jetzt auf was kommen, was ich halt eben für eine schöne Theorie halte oder was auch so eine Übereinstimmung hat zu der, die ich damals in meiner DIS verfolgt habe.
+
+01:12:35.000 --> 01:12:49.000
+Und die ursprünglich von vorhin schon erwähnten William Friedman stammt, der eben ja doch die Kryptoanalyse im letzten Jahrhundert sehr, sehr weit vorangebracht hat.
+
+01:12:49.000 --> 01:12:59.000
+Er hat sich nämlich geäußert am Ende oder er hat was übrig gelassen oder was da gelassen nach seinem Tod, nämlich ein Anagramm.
+
+01:12:59.000 --> 01:13:10.000
+Und Anagramme, vor allem lange Anagramme haben leider die Eigenschaft, dass sie alles oder sehr, sehr viel verschiedenes heißen können und dass niemand die vernünftig lösen kann oder diese sehr viele verschiedene Lösungen haben.
+
+01:13:10.000 --> 01:13:34.000
+Aber seine Frau hat dann tatsächlich, die auch zu seiner Study Group im Übrigen gehörte als Mitglied, hat dann irgendwann gesagt, okay, dieses, ich kriege den Wortlaut jetzt nicht mehr auf die Reihe, aber dass da drin, dass Friedman sagte, dass er das Von-nich-Manuskript für eine künstliche A priori-Sprache hält, sehr früher Art.
+
+01:13:34.000 --> 01:13:43.000
+Und das ist eine sehr interessante These, weil ihr hattet mal was über Kunstsprachen, richtig?
+
+01:13:43.000 --> 01:13:44.000
+Über Esperanto.
+
+01:13:44.000 --> 01:13:51.000
+Über Esperanto hattet ihr was. Und Esperanto ist halt eben eine typische Kunstsprache a posteriori.
+
+01:13:51.000 --> 01:14:12.000
+Das heißt, er hat zu Zamenhof natürlichsprachliche Vorbilder genommen und daraus eine Kunstsprache gebildet. Und er hat natürlichsprachliche Vorbilder genommen, weil er wollte, dass diese Kunstsprache einfach erlernt werden kann und dass halt eben möglichst, also möglichst einfach und möglichst viele Einflüsse aufgenommen sind aus anderen Sprachen.
+
+01:14:12.000 --> 01:14:25.000
+Kunstsprachen a priori haben halt eben diese Verbindung nicht, beziehungsweise sie wollen halt tatsächlich ein völlig anderes System aufbauen. Und da lohnt sich sicherlich auch mal eine Sendung drüber.
+
+01:14:25.000 --> 01:14:32.000
+Eine der bekanntesten oder ich glaube auch die erste Kunstsprache a priori wurde von John Wilkins erdacht.
+
+01:14:32.000 --> 01:14:51.000
+Der war eigentlich Pastor in London, aber auch Mitglied der Royal Society. Und der hat eine Sprache erdacht, in der er das, was wir als Avitalität des sprachlichen Zeichens kennen, muss ich wahrscheinlich erklären, ne?
+
+01:14:51.000 --> 01:14:52.000
+Ja, bitte.
+
+01:14:52.000 --> 01:15:00.000
+Auflösen wollte. Sprachliche Zeichen, so wie eigentlich alle Zeichen, haben zwei Seiten, nämlich eine Ausdrucksseite und eine Inhaltsseite.
+
+01:15:00.000 --> 01:15:08.000
+Ausdrucksseite ist halt eben das gesprochene Wort, so was wie Hund. Und Inhaltsseite ist das, was ich damit meine.
+
+01:15:08.000 --> 01:15:15.000
+Also wenn ich zu dir Hund sage, hast du eine Vorstellung von Hund. Das ist quasi dein begriffliches Konzept, das ist der Inhalt.
+
+01:15:15.000 --> 01:15:22.000
+Wenn ich das mal studiere und erkläre, ist es immer schwer, auf die Tafel zu malen, weil ich kann da natürlich halt Hund dranschreiben, ich kann die Lautstelle laut...
+
+01:15:22.000 --> 01:15:33.000
+Das ist das Ganze halt eben in IPA, also in der phonetischen Transkription, anmalen. Ich kann es sagen, ich kann Hund malen, aber es sind halt alles Zeichen. Es ist alles Ausdrucksseite.
+
+01:15:33.000 --> 01:15:42.000
+Das begriffliche Konzept ist halt eben tatsächlich das, was wir quasi in unserem Geist, in unserem Hirn, welche Theorie man auch immer verfolgt, halt haben.
+
+01:15:42.000 --> 01:15:46.000
+Wenn ich Hund sage, denkst du an was, wenn ich Hand sage, denkst du an was anderes.
+
+01:15:46.000 --> 01:15:53.000
+Obwohl die beiden sich nur durch ein einziges Zeichen, nämlich U und A, unterscheiden, die selber nicht bedeutungstragend sind.
+
+01:15:53.000 --> 01:15:58.000
+Diese Zuordnung von Hund zu dem beruflichen Konzept von Hund ist halt eben arbitrar.
+
+01:15:58.000 --> 01:16:09.000
+Ein Hund heißt halt eben Hund, weil sich die Menschheit irgendwann mal darauf... In dem Fall halt eben die Deutschen bzw. im Englischen heißt es jetzt Dog.
+
+01:16:09.000 --> 01:16:21.000
+Obwohl da gibt es auch Hound, Hound of the basketballs, wie auch immer. Irgendwann wurde halt eben bestimmt, okay, Hund ist jetzt eben dieses Konzept.
+
+01:16:21.000 --> 01:16:29.000
+Und Hand ist halt eben dieses Konzept hier am Ende meines Armes. Relativ ähnlich, haben nicht viel miteinander zu tun.
+
+01:16:29.000 --> 01:16:39.000
+Das ist halt eben diese Abitalität. Es gibt so Onomatopoetika wie Kikereki oder so, wo man versucht, Hände nachzuahmen.
+
+01:16:39.000 --> 01:16:49.000
+Wir wissen aber auch im Englischen heißt das didgeridoo, glaub ich, oder was auch immer. Wobei didgeridoo ist halt auch das Instrument.
+
+01:16:49.000 --> 01:16:54.000
+Wie auch immer, aber es ist halt eben keine richtige Lautmalerei, man versucht es nur. Ansonsten ist halt eben alles arbitrar.
+
+01:16:54.000 --> 01:16:58.000
+Dass das ein Sofa ist und das ein Sessel ist, ist halt einfach so mal festgelegt worden.
+
+01:16:58.000 --> 01:17:08.000
+Wilkins hat jetzt versucht, diese Abitalität aufzulösen und zwar, indem er halt eben ein Zeichensystem entwickelt hat, wo ähnliche Konzepte auch ähnliche Gestalt haben.
+
+01:17:08.000 --> 01:17:22.000
+Das war keine Sprache, die man sprechen konnte, sondern Zeichen. Und dann kannst du dir halt eben sowas vorstellen, sowas wie Bach war dann halt ein Strich mit einem Haken dran und sowas wie Fluss vielleicht ein Strich mit zwei Haken dran.
+
+01:17:22.000 --> 01:17:32.000
+Also Bach und Fluss sehen halt eben fast gleich aus. Du siehst Bach und Fluss im Deutschen völlig verschiedene Wörter, die haben halt fast nichts miteinander zu tun.
+
+01:17:32.000 --> 01:17:45.000
+Und ja, Wilkins hat halt eben tatsächlich versucht, hat es auch Universal Character oder auch ein bisschen göttliche Sprache genannt, weil er halt eben unzufrieden war mit dieser Abitalität.
+
+01:17:45.000 --> 01:17:50.000
+Warum ist es halt so beliebig, die Zuordnung zwischen Ausdruck und Inhalt? Und hat das halt versucht aufzulösen.
+
+01:17:50.000 --> 01:18:01.000
+Und hat dazu eine Menge Zettel geschrieben mit Übersetzungen. Nur leider sind diese Zettel im großen Brand von London.
+
+01:18:01.000 --> 01:18:02.000
+1666.
+
+01:18:02.000 --> 01:18:09.000
+1666, alle draufgegangen. Oder ein Großteil. Er hat sich aber nachher dran gesetzt und hat die halt eben neu geschrieben.
+
+01:18:09.000 --> 01:18:17.000
+Das ist eine ganz, ich verwirke mich jetzt dafür nicht, weil einen Großteil der Geschichte kenne ich aus Nils Stevens und Barock Zyklus.
+
+01:18:17.000 --> 01:18:20.000
+Und wie gesagt, ich bin aber auch keine Historiker.
+
+01:18:20.000 --> 01:18:24.000
+Aber das Geile wäre an dieser Sprache, dass es keine Missverständnisse mehr gibt.
+
+01:18:24.000 --> 01:18:28.000
+Ich würde sagen, dass es genau umgekehrt ist.
+
+01:18:28.000 --> 01:18:36.000
+Diese Abitalitäten, dass halt, wenn du nicht richtig verstehst, ob ich Hund oder Hand sage, kannst du es aus dem Kontext erschließen. Wenn beides was Ähnliches sind, weißt du nicht genau, was ich gemeint habe.
+
+01:18:36.000 --> 01:18:46.000
+Also ich glaube halt, die Verständigung wird schwieriger, weil halt je weiter die Konzepte auseinanderliegen, die ähnlich lauten, umso eher kannst du das halt eben kontextuell einordnen.
+
+01:18:46.000 --> 01:18:50.000
+Wenn die halt zusammenfallen und du verstehst es nicht richtig.
+
+01:18:50.000 --> 01:18:57.000
+Ja, also es hätte andere Vorteile und Wilkins hat sich halt eben dran gesetzt und da hat er eben sehr viel drüber geschrieben.
+
+01:18:57.000 --> 01:19:03.000
+Das ist auch sehr, sehr interessant. Der Essay towards the Universal Character lohnt sich zu lesen.
+
+01:19:03.000 --> 01:19:08.000
+Vor allem halt auch wegen der Brandgeschichte und so.
+
+01:19:08.000 --> 01:19:13.000
+Ja, aber auch das ist, das war damals schon zu spät. Ende 17. Jahrhundert.
+
+01:19:13.000 --> 01:19:19.000
+Großer Brand von London. Rudolf II. war schon längst tot, sein Hochwarthochtheker auch.
+
+01:19:19.000 --> 01:19:26.000
+Das Warnig-Manuskript war vorher da und Wilkins hat den ersten Versuch gemacht. Danach kamen halt eben noch ein paar mehr, Dalgano und so weiter.
+
+01:19:26.000 --> 01:19:33.000
+Aber auch das passt halt zeitlich nicht. Und Friedman hat halt eben jetzt gesagt, weil die Wörter im Warnig-Manuskript halt manchmal den Anschein erwecken.
+
+01:19:33.000 --> 01:19:42.000
+Die sehen halt eben manchmal sehr ähnlich aus und du hast das gleiche Wort dreimal hintereinander, was halt eben einfach dreimal Hund oder so heißen könnte, weil du kein Konzept für drei hast oder so.
+
+01:19:42.000 --> 01:19:55.000
+Weil halt eben diese Sprache völlig anderen Konzepten basiert. Und er hat halt gemeint, es wäre vielleicht so was wie so eine Sprache in einem sehr frühen Staat oder halt eben sehr, sehr früher Entwurf.
+
+01:19:55.000 --> 01:20:01.000
+Und ansonsten völlig unbekannter Entwurf einer solchen artificiellen Sprache a priori.
+
+01:20:01.000 --> 01:20:11.000
+Und das fand ich halt super und hab halt gedacht, naja, also da hab ich mich halt in die Bibliothek vergraben und hab halt eben geschaut.
+
+01:20:11.000 --> 01:20:29.000
+Gab's da vorher wirklich nichts. Es gab eine schöne Abhandlung über diese Universalsprache von Gerhard Strasse und der fing tatsächlich halt früher an und hat halt eben gezeigt, es gab zwar keine Universalsprache, aber es gab schon Sachen, die ein bisschen so aussahen.
+
+01:20:29.000 --> 01:20:55.000
+Und eine davon war halt eben die, die dieser Abt Johannes Tritemius Anfang des 16. Jahrhunderts, also halt eben passend noch vor der Datierung, also von 2000, vor 2009, weil der hat tatsächlich ja eine Schifre erdacht, wo einzelne Buchstaben durch ganze Wörter ersetzt werden.
+
+01:20:55.000 --> 01:21:06.000
+Und diese Wörter hat er verschiedene Systeme erdacht. Das hat er einmal mit lateinischen Wörtern gemacht, sodass, also das kann man sich vorstellen wie so eine Tabelle.
+
+01:21:06.000 --> 01:21:18.000
+In den Zahlen hast du Buchstaben aufgetragen von A bis W in seinem Fall. W war da halt eben, also das doppelte U. Noch mal ganz am Ende, das war der 24. Buchstabe, zwei haben gefehlt, X und Y in dem Fall.
+
+01:21:18.000 --> 01:21:35.000
+Und I und J waren da glaube ich der gleiche. Also insgesamt haben wir glaube ich 23 Zeilen, was auch immer. Und dann hast du über diese 23 Zeilen, hast du 138 in der Polygraphie A1, 138 Spalten, in denen du lateinische Wörter hast.
+
+01:21:35.000 --> 01:21:48.000
+Und zwar in jeder Spalte die gleiche Wortart. Am Anfang Nomen, danach Adjektive, danach Verben, danach wieder Nomen und so weiter. Lateinisch ist da ganz dankbar, weil du kannst halt eben die Sätze aufbauen, wie du willst.
+
+01:21:48.000 --> 01:22:02.000
+Musst halt eben nur immer auf den Kasus achten. Und wenn du dann halt einen Text verschlüsseln willst, musst du halt quasi den Text auflösen in die einzelnen Buchstaben und dann halt eben dir aus jeder Zeile das Wort raussuchen, was du gerade brauchst.
+
+01:22:02.000 --> 01:22:24.000
+Und dann sieht dein Endergebnis so aus wie ein lateinisches Gebet. Weil Tritimus war wie gesagt abt und gläubig, da halt quasi Vokabular aus Gebeten genommen. Dann hast du am Ende quasi ein Gebet erschaffen, was aussieht wie ein Gebet oder wohl auch ab und zu mal ein bisschen häubrig wirkte.
+
+01:22:24.000 --> 01:22:35.000
+Aber du hast eigentlich einen Text damit verschlüsselt, der viel kürzer ist, weil du halt für jeden Buchstaben ein Wort gebraucht hast. Aber es sieht halt anders aus. Es gibt keine wirklichen Beweise, dass diese Schiffre jemals angewendet wurde.
+
+01:22:35.000 --> 01:22:55.000
+Aber zumindest die Mär, dass die Byzantiner aus Konstantinopel während der Osmanischen Belagerung damit quasi Kassiba rausgeschmuggelt haben nach Venedig. Weil den Osmanen ist es nicht aufgefallen, dass es halt häubrig ist.
+
+01:22:55.000 --> 01:23:15.000
+Da verschickt jemand Gebete, ja lustig. Ich weiß es nicht. Das ist nicht hundertprozentig verbürgt, aber zumindest gibt es die Geschichte, dass diese Schiffre in Tritimus sehr, sehr viel Arbeit reingesteckt hat, weil er nicht nur einmal diese 138 Spalten, sondern danach auch nochmal über 120 in der Polygraphia 2 zusammengestellt hat.
+
+01:23:15.000 --> 01:23:25.000
+Also viel Arbeit reingesteckt hat, aber seltenst angewendet worden, weil auch Hölle kompliziert. Du brauchst halt dieses ganze Codebuch, um erstens zu verschlüsseln und zweitens halt eben zu entschlüsseln.
+
+01:23:25.000 --> 01:23:29.000
+Und man produziert wahnsinnig viel Text für wenig Schiffre.
+
+01:23:29.000 --> 01:23:50.000
+Genau. Er hat das Ganze aber weiter gedacht und dann in der Polygraphia 3 und 4, das heißt in den nächsten zwei Kapiteln, und das waren die Sachen, die ich mir unter Mikrofisch angeguckt habe, mit Phantasiewörtern. Und diese Phantasiewörter hatten eine ziemlich gut vorhersagbare Buchstabenfolge.
+
+01:23:50.000 --> 01:24:11.000
+Und die hatten auch die gleiche oder eine sehr, sehr ähnliche Wortlängenverteilung wie der Wornichtext. Auch in der Wornichtext ist der Wornichtext ganz anders als natürliche Sprachen. Wenn du Wörter zählst, Wortlängen zählst, also halt eben Buchstaben pro Wort. Was meinst du, wo ist der Peak im Deutschen zum Beispiel?
+
+01:24:11.000 --> 01:24:18.000
+Ich schätze mal, am häufigsten wird wahrscheinlich sowas wie der und unvorkommen, wenn wir zwischen 3 und 5 liegen.
+
+01:24:18.000 --> 01:24:35.000
+Wenn du Tokens zählst, also der halt eben nicht nur einmal zählst, sondern so oft wie es vorkommt und und, dann hast du halt eben den Ausschlag bei 3. Also 3 Buchstabenwörter sind in Deutschland mit Abstand am häufigsten. Wenn aber jedes Wort nur einmal zählst, dann hast du halt eben den Peak bei 6, 7 Buchstaben.
+
+01:24:35.000 --> 01:24:52.000
+Aber es gibt halt eben sehr viel mehr verschiedene 7 Buchstabenwörter im Deutschen als 3 Buchstabenwörter. Das heißt, du hast halt eben einen sehr großen Unterschied zwischen der Verteilung, wenn du Types zählst und wenn du Tokens zählst. Und das hat das Wornichtmechanismascript nicht. Das ist halt eben egal.
+
+01:24:52.000 --> 01:25:08.000
+Außerdem sind die Wörter meistens halt eben alle, also es gibt kaum 3 Buchstabenwörter, fast keine 2 Buchstabenwörter. Und dann sieht das so aus, als wenn das halt irgendwie da aus Versehen ins Fahrziel reingeraten ist oder so. Und das eigentlich zu einem anderen Wort gehört.
+
+01:25:08.000 --> 01:25:27.000
+Und das heißt, du hast eine Normalverteilung, die irgendwo den Peak bei 6, 7 Buchstaben hat und vorne und hinten halt einfach so runtergeht. In Deutschland hast du halt eben so eine schiefe Verteilung, weil halt eben 3 Buchstabenwörter so häufig vorkommen. Ja, und das Gleiche hast du halt eben auch bei dieser Polygraph hier, 3 Schiffre.
+
+01:25:27.000 --> 01:25:39.000
+Das ist das, wo ich halt eben die manuelle Strichliste gemacht habe und hatte halt eben dann diese Normalverteilung über die Wortlängen und dachte halt so, das ist aber jetzt schön, das haut ja genau hin, das sieht ja genauso aus.
+
+01:25:39.000 --> 01:25:51.000
+Ich hatte halt eben die Idee gehabt, nachdem ich Strasser gelesen hatte, diese Geschichte der Universalsprachen, aber wurde dann halt davon überzeugt und war dann halt tatsächlich auch infiziert.
+
+01:25:51.000 --> 01:26:20.000
+Und habe dann gedacht, jetzt musst du aber mal halt eben das weitere gucken, jetzt musst du davon halt eben auch die Entropie messen, dann musst du dir halt eben eine Operation ausdenken, wie kriege ich aus der Schiffre, weil die wurde tatsächlich nie angewendet wohl, diese Fantasiewörter, wie kriege ich daraus einen Text und wie messe ich dann diesen Text und was ist halt eben tatsächlich ein Text, den ich damit produzieren kann, wo ich versuche, halt eben auf das einzugehen, wie damals ein Text hätte produziert werden können und so weiter.
+
+01:26:20.000 --> 01:26:37.000
+Und das war halt eben sehr, sehr spannend und es war halt eben auch sehr schön, weil ich fand damals kam das am nächsten dran und ich hatte halt tatsächlich was gefunden, was wie eine Universalsprache aussah, aber in Wirklichkeit eine Schiffre war und halt eben zeitlich damals auch noch gepasst hat.
+
+01:26:37.000 --> 01:26:45.000
+Damit mit der C14 Methode ist das Ganze nochmal 70 Jahre nach vorne gerückt und da war halt eben Tritemius auch schon wieder zu spät.
+
+01:26:45.000 --> 01:26:51.000
+Den Text, den du da produziert hast, hätte der die Eigenschaften gehabt des Voynich Manuskripts?
+
+01:26:51.000 --> 01:27:06.000
+In großen Teilen ja, also das habe ich ja in meiner Diss halt tatsächlich dann auch dargelegt, dass der halt eben tatsächlich überall näher dran kam an das Voynich Manuskript als halt jede natürliche Sprache, die ich da eben mit einbezogen habe.
+
+01:27:06.000 --> 01:27:26.000
+Nicht 100 Prozent, weil Tritemius hat die Schiffre tatsächlich auch mit lateinischen Buchstaben wieder verfasst, hat aber andererseits dann in der Polygraphia 6 mit anderen Alphabeten, mit selbst ausgedachten, fränkisch zugeschriebenen Alphabeten experimentiert.
+
+01:27:26.000 --> 01:27:41.000
+Das heißt, er hat sich auch Buchstaben ausgedacht. Das heißt eigentlich, aber wie immer beim Voynich Manuskript, man konnte sich halt eben aus der Polygraphia, die das erste gedruckte Buch zur Kryptographie überhaupt war, 1506, wurde die verfasst und halt eben auch kurz danach gedruckt.
+
+01:27:41.000 --> 01:27:58.000
+Man konnte sich da halt tatsächlich bedienen und wo halt tatsächlich vorher, bevor ich das angefangen habe zu arbeiten, eigentlich insgesamt anerkannt war, es gab damals keine Methode, die so einen Text hat erzeugen können, habe ich eine gefunden.
+
+01:27:58.000 --> 01:28:20.000
+Eine sehr komplizierte Methode, für die es auch keinen Beweis irgendeiner Anwendung gibt, die aber halt eben passt und konnte halt in dessen Zuge auch zeigen, in dem Zuge auch zeigen, dass das, was für natürliche Sprachen entwickelt worden ist, für das Voynich Manuskript und für die Polygraphia 3 viel besser passt, weil die viel regelmäßiger sind.
+
+01:28:20.000 --> 01:28:32.000
+Und halt eigentlich mehr diesen strukturalistischen Denken, was halt mit natürlichen Sprachen, weil die halt doch immer wieder ein Buchstaben rausschmeißen und so und, oder Sachen anders schreiben, halt eben viel schlechter funktioniert.
+
+01:28:32.000 --> 01:28:47.000
+Und das war dann auch lustig, weil ich das zwar unter die Prämisse gestellt habe, naja, jetzt könnte man versuchen diese, wenn das tatsächlich so eine Polygraphia 3 Schifre ist, um die lösen zu können, muss ich die Tabellen rekonstruieren.
+
+01:28:47.000 --> 01:29:00.000
+Um die Tabellen zu rekonstruieren, Trethemius hat halt eben eine bestimmte Abfolge gehabt oder Regelmäßigkeiten in diesen Tabellen und die sind halt tatsächlich über klassische strukturalistische Tests ganz gut nachahmbar.
+
+01:29:00.000 --> 01:29:07.000
+Und habe das dann halt quasi gemacht und das hat halt eben super gepasst, aber ich konnte halt trotzdem aus dem Voynich-Chase jetzt keine Tabellen rekonstruieren, das lösen.
+
+01:29:07.000 --> 01:29:09.000
+Das war aber auch gar nicht der Anspruch.
+
+01:29:09.000 --> 01:29:16.000
+Aber das wäre sozusagen eigentlich die einzige Möglichkeit, um das zu beweisen, wäre, man müsste diese Tabellen rekonstruieren, aber aus dem Text selber ist das wahrscheinlich unmöglich.
+
+01:29:16.000 --> 01:29:25.000
+Solange keiner mit einer Idee und sehr viel Arbeitswillen da dran geht, ja, ich würde nicht sagen, dass es unmöglich ist.
+
+01:29:25.000 --> 01:29:34.000
+Also vielleicht ist es halt tatsächlich nur eine Idee weit weg, aber es ist ja, wie gesagt, überhaupt nicht sicher, ob es sowas halt überhaupt ist.
+
+01:29:34.000 --> 01:29:42.000
+Ich würde halt jetzt sagen, nein, also Thorsten Timms Ansatz ist halt eben der, der mir plausibler erscheint.
+
+01:29:42.000 --> 01:29:52.000
+Und ob da jetzt jemand so eine Menge Arbeit reinstecken will oder, aber vielleicht braucht man auch nun mal halt eben so eine Heureka-Idee in der Badewanne.
+
+01:29:52.000 --> 01:30:02.000
+Aber Tritemos ist der erste, von dem wir wissen, dass er so ein, dass er ein kryptographisches Buch, dass er ein Buch über Kryptographie geschrieben hat.
+
+01:30:02.000 --> 01:30:04.000
+Ne, das erste, was gedruckt wurde.
+
+01:30:04.000 --> 01:30:21.000
+Okay, also kryptographische Bücher gab es schon vorher tatsächlich, Leon Battista Alberti zum Beispiel hatte eben auch eins oder mehrere geschrieben oder Aufsätze geschrieben, der halt auch ein bisschen verdächtig ist.
+
+01:30:21.000 --> 01:30:27.000
+Der hat auch tatsächlich früher gelebt, aber trotzdem erst so 1470 angefangen, Sachen zu schreiben.
+
+01:30:27.000 --> 01:30:32.000
+Auch da wäre das Pergament schon ein bisschen alt geworden oder schon ein bisschen lang rumgelegen.
+
+01:30:32.000 --> 01:30:39.000
+Aber ja, Necetemius hat zwei Werke zur Kryptologie geschrieben, nämlich die Stekanographie.
+
+01:30:39.000 --> 01:30:46.000
+Die hat als erstes geschrieben 1499, 1500, quasi so am Scheitel der Zeitenwende.
+
+01:30:46.000 --> 01:30:50.000
+Die wurde allerdings nie gedruckt, sondern die kam sofort auf Index der katholischen Kirche.
+
+01:30:50.000 --> 01:30:57.000
+Es hatte bestimmte Gründe und da muss man auf jeden Fall eine eigene Sendung zu machen.
+
+01:30:57.000 --> 01:30:59.000
+Aber auch eine sehr, sehr schöne Geschichte.
+
+01:30:59.000 --> 01:31:08.000
+Die habe ich mal aufgeschrieben, Sternstunden der der Kryptoanalyse, eine unbekannte Helden sage in meinem Blog, wenn ich einmal Werbung machen darf.
+
+01:31:08.000 --> 01:31:11.000
+Weil die ist wirklich schön und die geht halt immer auch bis in die Neuzeit.
+
+01:31:11.000 --> 01:31:18.000
+Die geht bis 1996, wo dann halt tatsächlich der letzte Funken gelöst wurde.
+
+01:31:18.000 --> 01:31:22.000
+Aber auch mit einer fantastischen Story.
+
+01:31:22.000 --> 01:31:25.000
+Sehr gut, darauf werden wir dann in den Show Notes verweisen.
+
+01:31:25.000 --> 01:31:31.000
+Und vielleicht werde ich das gleich mal dann aufgreifen für eine der nächsten Folgen.
+
+01:31:31.000 --> 01:31:34.000
+Um das, was wir jetzt gesprochen haben, nochmal vielleicht zusammenzufassen.
+
+01:31:34.000 --> 01:31:37.000
+Es gibt, soweit ich das verstanden habe, drei Möglichkeiten.
+
+01:31:37.000 --> 01:31:44.000
+Entweder es ist eine Sprache, die wir so nicht kennen, die wir erst rekonstruieren müssten.
+
+01:31:44.000 --> 01:31:51.000
+Es ist ein Hoax, also jemand hat sich irgendwas ausgedacht, was eh keinen keinen Sinn hat in dem Form, den wir herausfinden können.
+
+01:31:51.000 --> 01:31:56.000
+Und es ist irgendeine Art von Verschlüsselung, die wir so noch nicht geknackt haben.
+
+01:31:56.000 --> 01:31:58.000
+Genau richtig zusammengefasst.
+
+01:31:58.000 --> 01:32:03.000
+Man muss halt irgendwo die Grenze zwischen, was ist, was ist noch Sprache, was ist schon Verschlüsselung?
+
+01:32:03.000 --> 01:32:07.000
+Weil auch halt natürliche Sprachen wurden zur Verschlüsselung eingesetzt.
+
+01:32:07.000 --> 01:32:11.000
+Navajo im Zweiten Weltkrieg von den Amerikanern.
+
+01:32:11.000 --> 01:32:20.000
+Aber da habe ich irgendwann mal die Grenze gezogen zwischen Verschlüsselung ist halt eben tatsächlich was verbergen wollen.
+
+01:32:20.000 --> 01:32:28.000
+Während halt diese Sprachtheorie wäre halt, also wir kennen entweder die Sprache nicht oder das Schriftsystem nicht, wahrscheinlich einfach beides nicht.
+
+01:32:28.000 --> 01:32:30.000
+Es wäre halt eben schon eine sehr kruge Sprache.
+
+01:32:30.000 --> 01:32:39.000
+So eine Universalsprache, von der ich oder halt eben so eine künstliche Sprache, von der ich gesprochen habe, würde auch irgendwo dazwischen fallen.
+
+01:32:39.000 --> 01:32:44.000
+Also es wäre jetzt nicht ganz klar, ist es halt jetzt eine Verschlüsselung oder ist es halt eine Sprache?
+
+01:32:44.000 --> 01:32:47.000
+Es ist jedenfalls keine natürliche Sprache.
+
+01:32:47.000 --> 01:33:04.000
+Ich kann mir irgendwie kaum vorstellen, dass jemand, wenn jemand so eine Sprache entwickelt hätte, so ausgehendes Mittelalter, dass es da nicht noch andere, dass er nicht noch andere Texte verfasst hätte oder Texte über diesen Text oder Texte über diese Sprache, die die Person erfunden hat.
+
+01:33:04.000 --> 01:33:14.000
+Also dass es dann wirklich nur dieses dieses Manuskript gibt, quasi das Produkt des Ganzen, das irgendwie erscheint mir dann schon seltsam.
+
+01:33:14.000 --> 01:33:21.000
+Ja, also ich meine, was wäre passiert, wenn Wilkins damals halt eben mit seinen Zettelchen verbrannt wäre?
+
+01:33:21.000 --> 01:33:26.000
+Also wäre da halt eben was übrig geblieben oder wäre das tatsächlich halt einfach weg gewesen?
+
+01:33:26.000 --> 01:33:33.000
+Also das Wissen und halt das manifestierte Wissen in den Zetteln.
+
+01:33:33.000 --> 01:33:37.000
+Wir sind ja schon mehrfach darauf eingegangen, dass dieses Pergament sehr kostbar ist.
+
+01:33:37.000 --> 01:33:46.000
+Wenn man halt vorher Aufzeichnungen gemacht hat oder eine Art von Nomenklatur oder irgendwelche Tabellen oder ein Lexikon oder so.
+
+01:33:46.000 --> 01:33:55.000
+Vielleicht hat man das woanders drauf geschrieben mit dem Finger in den Staub oder so, um halt eben das kostbare Pergament nicht zu beschmutzen.
+
+01:33:55.000 --> 01:34:00.000
+Worauf wir auch noch gar nicht eingegangen sind, ist also gut, es ist kein Palimpsest.
+
+01:34:00.000 --> 01:34:05.000
+Es wurde tatsächlich nur einfach beschrieben und es wurden keine Fehler gemacht.
+
+01:34:05.000 --> 01:34:19.000
+Es gibt keinen einzigen Hinweis darauf, dass mal ein Buchstabe oder eine Glyphe falsch geschrieben wurde und versucht wurde, halt eben auszuradieren, wegzukratzen, neu zu schreiben, durchzustreichen oder so.
+
+01:34:19.000 --> 01:34:25.000
+Das gibt es alles nicht. Das ist halt eben schon ein bisschen seltsam, weil jeder verschreibt sich mal.
+
+01:34:25.000 --> 01:34:34.000
+Also jedes mittelalterliche Manuskript, was abgeschrieben wurde, da sieht man halt Spuren davon, was falsch geschrieben wurde.
+
+01:34:34.000 --> 01:34:44.000
+Selbst der beste Schreiber, waren glaube ich damals meistens Männer, macht irgendwann mal einen Fehler und das ist da halt nicht passiert, was auch so ein bisschen für die Hoax Theorie spricht.
+
+01:34:44.000 --> 01:34:47.000
+Bei 200 Seiten, ja, ist also sehr seltsam.
+
+01:34:47.000 --> 01:34:55.000
+Wobei es aber auch, man hat ja das Gefühl, es muss auch ein Stück weit ja eine Übung vorliegen.
+
+01:34:55.000 --> 01:35:01.000
+Ich meine, 200 Seiten so zu beschreiben ohne Fehler muss ja wahnsinnig viel Zeit auch in Anspruch genommen haben.
+
+01:35:01.000 --> 01:35:10.000
+Ja, ich meine, Fehler ist ja relativ. Du kannst ja nur Fehler machen, eigentlich wenn dein Text was bedeutet. Wenn der Text nichts bedeutet, gibt es eigentlich keine Fehler.
+
+01:35:10.000 --> 01:35:21.000
+Also wenn du halt tatsächlich so eine Autokopie hast, wo du sowieso dauernd abwallen, dann sagst du, oh, jetzt wollte ich eigentlich anders abwallen. Ich habe es jetzt halt so gemacht. Gut, dann schreibe ich das gleiche Wort halt eben nochmal dahinter.
+
+01:35:21.000 --> 01:35:22.000
+Ja, sicher.
+
+01:35:22.000 --> 01:35:36.000
+Also das deutet halt tatsächlich darauf hin, dass es egal war, einen Fehler gemacht zu haben. Und es kann aber auch mehrere Gründe haben. Es kann halt eben sein, okay, dann ist halt jetzt dieses Wort nicht signifikant, sondern hat einfach das nächste.
+
+01:35:36.000 --> 01:35:41.000
+Dann schreibe ich, und dann ist es, das nächste Wort bedeutet, dass das Wort davor falsch geschrieben ist oder so.
+
+01:35:41.000 --> 01:35:52.000
+Also all solche Systeme kann man sich natürlich erdenken, aber die billigere Erklärung ist tatsächlich zu sagen, das hat einfach keinen Sinn, deswegen konnte man keinen Fehler machen.
+
+01:35:52.000 --> 01:36:05.000
+Genauso halt, dass es halt so schön in diese Paragraphen passt. Das halt diese Wörter so schön bis an die Pflanzen dran, und wenn dann halt eben Blatt reinragt, ja gut, dann steht da halt eben kein Wort, was fängt halt eben direkt danach an und geht bis zum Stil.
+
+01:36:05.000 --> 01:36:15.000
+Ja, das heißt also der Text ist quasi wie für diesen Platz, den er zur Verfügung hat gemacht, hier reingegossen.
+
+01:36:15.000 --> 01:36:29.000
+Und das deutet halt auch, wenn ich ein bisschen darauf hin, dass es halt einfacher, wenn der Text nichts bedeutet, weil dann kannst du halt was, welches Zeichen noch oder welche Zeichenkombination auch immer dahinschreiben.
+
+01:36:29.000 --> 01:36:37.000
+Wobei sich der Schreiber oder die Schreiberin an Regeln gehalten hat oder zumindest an beschreibbare Abfolgen.
+
+01:36:37.000 --> 01:36:41.000
+Also was hältst du denn momentan für die plausibelste Theorie?
+
+01:36:41.000 --> 01:36:46.000
+Ja, wie gesagt, die Hoax-Theorie nach, die Autokopisten-Theorie nach Tim.
+
+01:36:46.000 --> 01:37:00.000
+Den hab ich auch letztens noch mal getroffen, ist halt auch immer nett, sich mit ihm auszutauschen, weil wir sind auch noch gar nicht auf die Warnig-Community zu sprechen gekommen, die halt nicht immer so einfach ist.
+
+01:37:00.000 --> 01:37:13.000
+Wobei ich mich da auch ein bisschen raushalte, aber ansonsten gibt's da halt echt viel Basserei, weil jeder hat irgendwie seine Theorie und macht halt eben die vom anderen schlechter, so kommt's mir manchmal vor.
+
+01:37:13.000 --> 01:37:20.000
+Aber ja, das Warnig-Manuskript ist halt eben so faszinierend, dass auch jeder irgendwas darin findet.
+
+01:37:20.000 --> 01:37:32.000
+Weil irgendwas findet man halt, was man von irgendwoher kennt und sagt so, ah guck mal hier, das hab ich doch schon mal gehört, dass halt, was weiß ich, agglutinierende Sprachen, ähnlich regelmäßigen Wortaufbau haben.
+
+01:37:32.000 --> 01:37:43.000
+Und dann wird halt eben daran geforscht, ob es jetzt halt vielleicht doch türkisch sein könnte, dann aber ohne Vokale und halt, das ist irgendwie so, so hin haut.
+
+01:37:43.000 --> 01:37:56.000
+Erfolgsmeldungen, von denen du heißt gesprochen hast, oder die, wenn die Warnigsau mal wieder durchs Dorf getrieben wird, schöne, ich müsste mal eine Aufstellung dabei machen, ob das halt wirklich regelmäßig ist oder ob das unvorhersagbar ist.
+
+01:37:56.000 --> 01:38:09.000
+Spätestens nach zwölf Monaten, also spätestens Anfang nächsten Jahres werden wir halt wieder so was haben, wo die großen Webportale verkünden, dass das Warnig-Manuskript gelöst ist, weil irgendwer irgendwo was veröffentlicht hat.
+
+01:38:09.000 --> 01:38:12.000
+Also zumindest die letzten paar Mal haben sie halt alle nichts dazu gelernt.
+
+01:38:12.000 --> 01:38:23.000
+Obwohl es halt eben jedes Mal so war, dass, früher waren es noch vor allem halt die Warnig-Forscher, die dann halt eben den Daumen senken mussten inzwischen.
+
+01:38:23.000 --> 01:38:34.000
+Und das war lange Zeit nicht der Fall, kommen halt tatsächlich wieder echte Wissenschaftler und sagen so, naja, ich habe das Paper jetzt mal gelesen und ich bin Linguist und das ist deswegen und deswegen und deswegen Blödsinn.
+
+01:38:34.000 --> 01:38:51.000
+Und dann kommt halt eben eine Mittelalter-Forscherin, die halt eben auch eine hohe Stellung hat in der amerikanischen Mittelalter-Forscher-Szene und sagt halt, aus meiner Sicht ist das vollkommener Blödsinn, weil so und so und so und so.
+
+01:38:51.000 --> 01:38:59.000
+Und das war lange Zeit nicht der Fall, lange Zeit waren da die Warnig-Experten unter sich und ich finde es gut, dass die Wissenschaft jetzt tatsächlich dahin zurückkommt.
+
+01:38:59.000 --> 01:39:06.000
+Weil die hat das fallen gelassen, nachdem es ja eine unschöne Geschichte am Anfang gab.
+
+01:39:06.000 --> 01:39:20.000
+Wo halt tatsächlich dann auch ein Althistoriker, ein Rehkologe, ich habe vergessen, was New World war, eigentlich kann man es auch vergessen, aber es war der erste Forscher, der draufsass, in dem das Warnig-Manuskript quasi exklusiv zur Verfügung gestellt wurde.
+
+01:39:20.000 --> 01:39:31.000
+Er hat da was, weiß ich, drin gesehen, also ich kenne die Theorie dazu, die ist wahnsinnig kompliziert und halt eben völlig falsch und hat völlig viele Fehler gerade, das konnte niemand überprüfen, weil niemand das Manuskript hatte.
+
+01:39:31.000 --> 01:39:38.000
+Und New World hat halt gesagt, das Manuskript ist von Roger Bacon.
+
+01:39:38.000 --> 01:39:43.000
+Das stand auch schon in dem Brief, also Kaiser Rudolf hat das scheinbar auch schon vermutet oder irgendwer im Hof.
+
+01:39:43.000 --> 01:39:51.000
+Roger Bacon hat eben Englischer gelehrte, das passt zeitlich jetzt wieder nicht, weil vor dem 15. Jahrhundert.
+
+01:39:51.000 --> 01:40:03.000
+Und Roger Bacon hat da unter anderem menschliche Zellen und bestimmte Sternensysteme beschrieben.
+
+01:40:03.000 --> 01:40:21.000
+Menschliche Zellen wissen wir, kann man halt eben nur sehen, wenn man Mikroskop zur Verfügung hat, diese Sternensysteme konnte man nur sehen, wenn man ein Teleskop zur Verfügung hat und New Worlds Schluss daraus war, dass Roger Bacon sowohl das eine wie auch das andere zur Verfügung stand.
+
+01:40:21.000 --> 01:40:32.000
+Halt eben hunderte von Jahren, bevor die tatsächlich, Tachybra hast du erwähnt, erst da war dann die Optik tatsächlich so weit, solche Sachen zu entwickeln.
+
+01:40:32.000 --> 01:40:43.000
+Ja, das hielt aber ziemlich lange Jahre an und die Media-Vistek hat sich dann ziemlich genaht gefühlt und das Manuskript hat einfach nicht mehr angefasst für mehrere Jahrzehnte.
+
+01:40:43.000 --> 01:40:50.000
+Und jeder, der darüber geschrieben hat, lustigerweise, hat es dann halt versteckt irgendwo.
+
+01:40:50.000 --> 01:41:02.000
+Bandit hat ein Buch, also der mit der Entropie hat ein Buch über Einführung in die Programmiersprache Basic geschrieben und da drin sein Entropie-Kapitel zu Warnig versteckt.
+
+01:41:02.000 --> 01:41:18.000
+Meine Dissertation heißt Textprozessierungen Design und Applikation, geht um Textprozessierungssysteme, um Software, um Open Science und so weiter und da kommt ein Kapitel zum Warnig Manuskript drin vor und da hat eben auch die Analysen und andere haben das auch so gemacht.
+
+01:41:18.000 --> 01:41:23.000
+Und inzwischen ist es aber, also die Wissenschaft kommt wieder zurück.
+
+01:41:23.000 --> 01:41:27.000
+Es ist wieder okay, sich mit dem Warnig Manuskript zu beschäftigen.
+
+01:41:27.000 --> 01:41:32.000
+Es wäre mal ein schönes Dissertationsthema, wahrscheinlich so die Kulturgeschichte des Warnig Manuskripts.
+
+01:41:32.000 --> 01:41:41.000
+Auf jeden Fall. Also ich habe meine jetzt schon hinter mir und es passt halt eben auch nicht ganz in meinen Fachbereich natürlich.
+
+01:41:41.000 --> 01:41:50.000
+Aber ja, ich stehe da auch gerne mit Rat zur Seite, wie man merkt, glaube ich.
+
+01:41:50.000 --> 01:41:54.000
+Wenn man mich darüber fragt, dann erzähle ich auch gerne dazu.
+
+01:41:54.000 --> 01:42:10.000
+Aber das heißt ja, die meisten, die dann sagen, sie haben das Warnig Manuskript entschlüsselt, die behaupten dann, dass sie, also die müssten ja dann eigentlich Text vorweisen können, wo sie sagen, so hier, hier habe ich jetzt, was eigentlich der Inhalt dieses Textes ist.
+
+01:42:10.000 --> 01:42:15.000
+Und wenn sie das nicht nachweisen können, dann sieht man relativ schnell, dass es ein Fake ist.
+
+01:42:15.000 --> 01:42:20.000
+Ja, oder die weisen halt tatsächlich einen Text nach, der halt inakzeptabel ist.
+
+01:42:20.000 --> 01:42:36.000
+Der halt behauptet, es wäre wohl Gärlatin oder Protoromanisch, wie das jetzt in der letzten Runde der Fall war von einem Bristoler Forscher, Gérard Cheshire.
+
+01:42:36.000 --> 01:42:46.000
+Der halt ja, da was rausgelesen haben will, was es aber halt gar nicht gab, zumindest zu der Zeit nicht mehr gab.
+
+01:42:46.000 --> 01:42:52.000
+Und diese Textrekonstruktion bei den meisten beruht halt auf sehr vielen verschiedenen Freiheitsgraden.
+
+01:42:52.000 --> 01:42:59.000
+Wir waren vorhin schon mal bei Anagramm, dass halt man findet halt immer irgendwo irgendwas, was passt.
+
+01:42:59.000 --> 01:43:11.000
+Und wenn man halt nur lang genug sucht und wenn man halt eben dann noch Dinge umstellen kann, sagen kann, dass R kann so, so oder so aussehen oder wenn es so aussieht, dann kann es auch ein E sein,
+
+01:43:11.000 --> 01:43:26.000
+dann hat man halt einfach zu viele Freiheitsgrade darin und es kann halt allein aufgrund der Kombinatorik kann jeder Text alles heißen, wenn du halt eben aus jedem Buchstaben das lesen willst, was du rauslesen willst.
+
+01:43:26.000 --> 01:43:39.000
+Und andere, Kondra Kaur, die haben jetzt, gut, das kann man denen auch nicht angreifen, eigentlich doch, weil eigentlich haben die so ähnlich wie ich eigentlich über was anderes geschrieben, nämlich über zwei Methoden aus der Kryptoanalyse,
+
+01:43:39.000 --> 01:43:50.000
+die auch sehr gut waren, auch zur Auflösung von Anagramm und haben dann gesagt, ja und jetzt wenden wir uns auf das Warn-Nichtmal-Krypt an, was lustig ist,
+
+01:43:50.000 --> 01:44:05.000
+was ja aber halt eben bar jeder Realität oder Anerkennung der Warn-Nichtforschung gemacht haben, weil ihnen da jeder gesagt hätte, die Vorannahmen, die ihr trefft, das ist halt eben ein Monoalphabetisch verschlüsselter Schiffriss und so weiter,
+
+01:44:05.000 --> 01:44:17.000
+das kann alles gar nicht sein aus dem und dem und dem Grund, sie haben es trotzdem gemacht, haben dann tatsächlich auch über Anagramm-Methode, habe ich hier schon gesagt, hat es sehr, sehr mehrdeutig, was da rauskommt,
+
+01:44:17.000 --> 01:44:35.000
+einen Text produziert, den sie nicht lesen konnten, war nämlich Latein, haben sie das Latein-Mächtigen gefragt, der hat gesagt, der ist kein Latein, dann haben sie das Ganze Google Translate gegeben und haben gesagt, das ist Latein, übersetzt mal,
+
+01:44:35.000 --> 01:44:51.000
+und Google Translate hat dann natürlich was auf Englisch übersetzt, also da kann dann tatsächlich Englisch raus, aber Google Translate findet halt immer was, weil das ist halt eben der Job von Google Translate, halt eben aus Blödsinn irgendeinen Sinn abzuregen und das haben die veröffentlichten,
+
+01:44:51.000 --> 01:45:05.000
+da habe ich mich natürlich auch genaht gefühlt, das werden wir jetzt getreut, also die fragen jemanden, der sich damit auskennt und der sagt, tut mir leid, das kann ich nicht lesen und dann gibt es das Google Translate, weil die wissen das ja besser als die wissen, schafft er ja,
+
+01:45:05.000 --> 01:45:26.000
+aber das ist auch nur eine der 100.000 lustigen Blüten, wie gesagt, eigentlich hatten sie zwei ganz gute Algorithmen, die dann auf das Word-Nich-Manuskript anzuwenden, dann halt eben zu publizieren in einer Zeitschrift bzw. in Proceedings zu einer Computerlinguistiktagung, die sehr angesehen ist,
+
+01:45:26.000 --> 01:45:44.000
+wo das Peer Review halt nicht gesagt hat, so ey Leute, mag ja ganz lustig sein, aber es wurde dann halt eben nicht als Hokes gelesen, so und dann ist er wieder irgendeinem Redakteur ein halbes Jahr später drauf gestoßen und hat dann dazu verfasst, das Word-Nich-Manuskript ist gelöst,
+
+01:45:44.000 --> 01:45:57.000
+ist nämlich Latein mit einer anagrammatischen Schrift und die sind da genau, künstliche Intelligenz, die sind da halt eben mit künstlicher Intelligenz dran gegangen, künstliche Intelligenz, da hast du vielleicht gelesen, entschlüsselt das Word-Nich-Manuskript, ging ein paar Wochen durch die Gazetten,
+
+01:45:57.000 --> 01:46:09.000
+ich habe halt eben sofort was dazu geschrieben im Blog, Klaus Schmäh eigentlich auch, halt Lisa Faggen Davis dann auch und dann haben halt eben alle gesagt, Blödsinn, Blödsinn, Blödsinn, irgendwann wurde das wieder eingefangen und,
+
+01:46:09.000 --> 01:46:25.000
+aber es hat halt eben keinen dran gehindert, halt ein paar Monate später das nächste Word-Nich-Manuskript ist gelöst, das rauszuhauen und halt eben an keinem einzigen diese Ansätze, die jemals in der Tagespresse aufgetaucht sind,
+
+01:46:25.000 --> 01:46:42.000
+also nicht bei Conrad Kaur, nicht bei Gibbs, der durfte im Times Literary Supplement eigentlich auch ein halt eben angesehenes Bücherbeschreibungsbeiblatt veröffentlichen,
+
+01:46:42.000 --> 01:46:51.000
+der hätte auch was gefunden, das wäre nämlich lateinische Kurzschrift und hat halt eben auch eine Übersetzung gemacht, wo auch jeder nur die Hände über den Kopf zusammengeschlagen hat
+
+01:46:51.000 --> 01:47:05.000
+und dann jetzt halt eben das neueste aus Bristol und da war halt eben überall nichts dran, also nicht die Spur, die haben halt, und das Schlimme daran ist, es wurde halt eben noch, die Word-Nich-Forschung wurde kein Stück weitergebracht durch diese Veröffentlichung,
+
+01:47:05.000 --> 01:47:19.000
+weil die ausschließlich halt eben ihren eigenen Mist zusammengebacken haben, ohne Rücksicht darauf zu nehmen, was halt eben tatsächlich schon feststeht für das Manuskript
+
+01:47:19.000 --> 01:47:22.000
+und auch halt eben das Ganze nicht weitergebracht haben.
+
+01:47:22.000 --> 01:47:30.000
+Hältst du es für realistisch in den nächsten Jahrzehnten, dass mal jemand auf eine Idee kommt, die tatsächlich einen Durchbruch bringt?
+
+01:47:30.000 --> 01:47:46.000
+Ich muss mir Zeit nehmen für die Antwort. Ich bin ein schlechter Visionär, habe ich schon ein paar Mal gesagt. Es kann sein, also ich würde mir auch wünschen, dass es tatsächlich nicht dieser Hoax ist,
+
+01:47:46.000 --> 01:47:58.000
+dass es tatsächlich eine Inhaltsseite gibt, wo wir vorhin bei Ausdruck zu einer Inhaltsseite waren, diese Hoax-Theorie heißt nichts anderes als das, es gibt nur Ausdruck, es gibt keinen Inhalt, das Ganze bedeutet nichts.
+
+01:47:58.000 --> 01:48:10.000
+Das Ganze ist halt nur Schrift ohne Sinn dahinter. Gut, ich finde das nicht unbefriedigend, aber unbefriedigend ist, deshalb macht jemand sowas, aus welchen Gründen kommt das hin?
+
+01:48:10.000 --> 01:48:20.000
+Darüber könnte man auch forschen, also er hatte jemand vielleicht psychische Probleme oder Visionen, gibt es da einen Unterschied zwischen beiden?
+
+01:48:20.000 --> 01:48:32.000
+Das wäre dann interessant, aber wirklich wirklich schön wäre doch tatsächlich, das Ganze hätte tatsächlich noch einen Inhalt, den wir irgendwann entdecken könnten.
+
+01:48:32.000 --> 01:48:44.000
+Ich gebe eigentlich nicht viel darum, dass der Inhalt dann irgendwie bahnbrechend ist und da was drinsteht, was wir schon jahrhundertelang nachgesucht haben und uns ewige Glückseligkeit bringen wird,
+
+01:48:44.000 --> 01:48:59.000
+weil tatsächlich die meisten dieser Schifferen, die dann irgendwann gelöst werden, sehr banale Sprüche nur für einen bereithalten, aber es wäre halt eben zumindest was zu entdecken.
+
+01:48:59.000 --> 01:49:09.000
+Als Wissenschaftler ist man immer so ein bisschen Entdecker und hat halt diesen Entdecker-Forscher-Geist und das wäre schon schön, wenn es so wäre.
+
+01:49:09.000 --> 01:49:23.000
+Also das müsste erstmal der Fall sein, ob es dann jemanden gibt, ob es überhaupt prinzipiell möglich ist dahinter zu kommen und ob es dann jemanden gibt, der oder die die richtige Idee hat,
+
+01:49:23.000 --> 01:49:31.000
+sind halt tatsächlich so drei Unbekannten. Da kann man jetzt halt eben so ein bisschen dran drehen, ist das wahrscheinlich, ist das nicht wahrscheinlich.
+
+01:49:31.000 --> 01:49:47.000
+Ich halte es für wünschenswert, andererseits ist aber auch die Bohr-Nichtmannes-Kript-Forschung an sich schon so viel so lustig und so tief teilweise und man kommt mit so vielen wissenschaftlichen Gebieten
+
+01:49:47.000 --> 01:49:57.000
+und so viele lustigen Geschichten in Berührung, dass es halt auch so schon eine Freude ist. Also es muss gar nicht sein, aber es wäre noch so ein Sahnehörbchen drauf.
+
+01:49:57.000 --> 01:50:11.000
+Siehst du, meine Kulturgeschichte, das war nicht Manuskript, das wäre es eigentlich. Und ich glaube auch, also so wie ich jetzt dich und das, was du erzählst, verstehe, habe ich auch das Gefühl, dass das auch der Schlüssel des Manuskripts wäre.
+
+01:50:11.000 --> 01:50:22.000
+Gar nicht so sehr den Inhalt rauszufinden, sondern rauszufinden, was denn der Kontext dieses Dings ist. Warum, wer das Ding verfasst hat, um Geld zu verdienen oder um sich einen Scherz zu machen.
+
+01:50:22.000 --> 01:50:27.000
+Also um rauszufinden, warum eigentlich und gar nicht so sehr was.
+
+01:50:27.000 --> 01:50:35.000
+Also es ist auf jeden Fall auch eine Forschungsrichtung, in die man auch gehen kann. Also es wurde tatsächlich auch in den letzten Jahren viel gemacht.
+
+01:50:35.000 --> 01:50:50.000
+Beim René Sandbergen, der auch eigentlich glaube ich bei der ESA arbeitet, bei der Europäischen Weltraumagentur, will aber auch nichts Falsches sagen, der sich auch mehr in seiner Freizeit damit beschäftigt, der ist halt sehr viele Archive durchgegangen.
+
+01:50:50.000 --> 01:50:57.000
+Der hat unter anderem auch diesen Brief von barischen Kircher gefunden, diesen zweiten. Und inzwischen sind halt eben auch noch mehr aufgetaucht.
+
+01:50:57.000 --> 01:51:06.000
+Da sind wir relativ weit in der Korrespondenz zwischen dem frühen 17. Jahrhundert. Wir können das halt ganz gut rekonstruieren.
+
+01:51:06.000 --> 01:51:14.000
+Wer hat da was gedacht und an wen gesendet und sich für was bedankt oder gegen wen interagiert.
+
+01:51:14.000 --> 01:51:20.000
+Aber davor ist es halt noch. Also das wäre halt tatsächlich mal interessant. Wo kommt das Ding, wie kommt das Ding dahin?
+
+01:51:20.000 --> 01:51:30.000
+Und das ist aber halt völlig, völlige Spekulation. Wie gesagt, da gibt es auch viele Geschichten, aber die sind zu lang und zu weit.
+
+01:51:30.000 --> 01:51:40.000
+Gibt es noch einen Punkt zum Voynich Manuskript, wo du das Gefühl hast, den haben wir vergessen, der wäre aber echt wahnsinnig wichtig. Wenn man schon über zwei Stunden über das Thema spricht, dann sollte das auch genannt sein.
+
+01:51:40.000 --> 01:51:50.000
+Ich glaube, ich habe jetzt zwei Stunden geredet und ich habe schon ganz vergessen, wie wir angefangen haben. Wir haben über dich und die Computerlingüistin gesprochen.
+
+01:51:50.000 --> 01:52:02.000
+Da hast du recht. Ich glaube, ich habe eigentlich alles, nicht alles wichtige, weil es gibt zu viel Wichtiges. Ich würde halt tatsächlich Leute, die sich dafür interessieren.
+
+01:52:02.000 --> 01:52:12.000
+Es gibt sehr gute populärwissenschaftliche Bücher auch darüber. Es gibt viele Blog-Einträge. Also man kann sich halt tatsächlich informieren über das Voynich Manuskript.
+
+01:52:12.000 --> 01:52:27.000
+Ich habe jetzt auch das erste Mal nach zehn Jahren, nachdem ich das Voynich Manuskript in Betracht gezogen habe, das erste Mal einen Kurs dazu gegeben und habe halt eben Studierende auch mal die Theorien lesen lassen und beurteilen lassen.
+
+01:52:27.000 --> 01:52:41.000
+Das hat sehr gut geklappt. Die haben sich alle sehr schön darauf eingelassen, weil es gibt sehr viel Material online. Vielleicht schaffen wir es auch, den Wikipedia-Artikel im Deutschen was besser zu machen, jetzt noch im Ausklang des Seminars.
+
+01:52:41.000 --> 01:53:01.000
+Das ist aber ein guter Startpunkt auf jeden Fall. Es lohnt sich auf jeden Fall, weil man überall reintauchen kann. Jede Geschichte, die sich um das Voynich Manuskript rankt, hat noch irgendwo einen Tiefgang und man stößt dann völlig woanders drauf.
+
+01:53:01.000 --> 01:53:21.000
+Man landet halt eben am Hof Kaiser Rudolf II., der halt eben selber schon eine sehr ambivalente Gestalt war und halt sehr den Wissenschaften, sehr den Mystiken zugetan war, aber halt auch sehr melancholisch war.
+
+01:53:21.000 --> 01:53:38.000
+Allein in der Zeit ein bisschen rumzustreifen, macht schon wahnsinnig Spaß. Oder halt Universalsprachen, eine super interessante Geschichte, die sich halt nie durchgesetzt hat, wo aber vielleicht nochmal ein neuer Anlauf genommen wird.
+
+01:53:38.000 --> 01:53:56.000
+Und auch so Pergamentkunde. Das habe ich auch nur aus einem Spalenband, weil ich musste ja dann was darüber wissen, aber hatte jetzt nicht die Zeit, da ein ganzes Studium dazu zu absolvieren.
+
+01:53:56.000 --> 01:54:08.000
+Und habe dann aber tatsächlich mit Leuten hier an der TH, die das auch machen, gesprochen. Auch von wegen Datierung und die sind auch sehr skeptisch, ob man das halt eben vernünftig datieren kann.
+
+01:54:08.000 --> 01:54:20.000
+Aber gut, es hat halt eben die Macron Universität in Chicago gemacht. Aber eine richtige wissenschaftliche Veröffentlichung ist da nicht bei rumgesprungen.
+
+01:54:20.000 --> 01:54:30.000
+Das wurde in der österreichischen Fernsehsendung verkündet, dann gab es irgendwann mal so ein Datenblatt dazu. Aber die Beweislage ist da sehr dünn.
+
+01:54:30.000 --> 01:54:45.000
+Aber trotzdem gehe ich jetzt mal davon aus, dass das mehr oder weniger stimmt. Aber auch das habe ich aus persönlicher Kommunikation heraus gehört, dass man diese C14-Methode so spätestens halt eben seit der Neuzeit halt eben nur noch ungern anwendet,
+
+01:54:45.000 --> 01:54:56.000
+weil da zu viele Variablen mit reinspielen. Man hat eben die Menschen angefangen, fossile Brennstoffe zu verbrennen und das stört die CO2-Bilanz.
+
+01:54:56.000 --> 01:55:02.000
+Verstehe, das heißt auch da kann man, wenn man die nochmal messen würde, können wir vielleicht auf andere Werte hin?
+
+01:55:02.000 --> 01:55:10.000
+Ja, die haben jetzt gesagt 95 Prozent, das ist für Physiker ist das nichts. Um das Higgs-Poson zu beweisen, braucht man ganz andere Signifikanzen.
+
+01:55:10.000 --> 01:55:22.000
+Das ist jetzt die einfachste, aber auch drumherum. Also dass es halt erst im 16., 17. Jahrhundert gemacht wurde, ist doch sehr unwahrscheinlich.
+
+01:55:22.000 --> 01:55:28.000
+Aber es ist nicht ausgeschlossen. Wissenschaft ist immer Aussagen von Wahrscheinlichkeiten.
+
+01:55:28.000 --> 01:55:38.000
+Und ja, dass man jähl nochmal dazu kriegt, nochmal eine C14-Methode anzuwerfen, glaube ich nicht, weil dann müssten Sie wieder Stücke davon abschneiden.
+
+01:55:38.000 --> 01:55:44.000
+Die Tinte kann man nicht analysieren, deswegen, weil man zu wenig Material hat. Die müsste man halt eben fast ganz abkratzen, um genug Material zu haben.
+
+01:55:44.000 --> 01:55:50.000
+Und das wird natürlich keiner machen. Und deswegen arbeiten wir mit sehr vielen Unbekannten.
+
+01:55:50.000 --> 01:55:59.000
+Aber wenn jetzt keiner mit dem Text weiterkommt, da stimme ich dir ja vollkommen zu, wäre halt Forschung in der Umgebung mal angesagt.
+
+01:55:59.000 --> 01:56:08.000
+Also halt tatsächlich mal zu versuchen, auszukriegen, wo kommt das Ding her und finden wir irgendwas, was das irgendwann mal erwähnt.
+
+01:56:08.000 --> 01:56:16.000
+Oder ist das tatsächlich für 200 Jahre in der Schublade verschwunden und dann ausgekramt worden und dann in den Kaiser Rudolf verökert?
+
+01:56:16.000 --> 01:56:19.000
+Wir sind halt eben völlig blind in der Zeit.
+
+01:56:19.000 --> 01:56:25.000
+Und deshalb war auch meine Frage am Anfang, was ich oft erinnere, wo ich gefragt habe, waren schon klar, dass es was Besonderes ist.
+
+01:56:25.000 --> 01:56:32.000
+Für uns ist jetzt klar, wir sehen dieses Wollnich-Modeskript und denken uns, das ist irgendwie wahnsinnig spannend.
+
+01:56:32.000 --> 01:56:40.000
+Aber war das auch bei Rudolf II. schon so ein Faszinosum oder auch schon vorher ein Faszinosum?
+
+01:56:40.000 --> 01:56:43.000
+Und dann stellt sich ja die Frage, warum verschwindet es dann für 200 Jahre?
+
+01:56:43.000 --> 01:56:49.000
+Also war es dann den Leuten egal oder hatten die auch so den Sinn dafür, dass es was Besonderes ist?
+
+01:56:49.000 --> 01:56:57.000
+Ja, ganz kurz. An Kaiser Rudolf II. 600 Dekaden dafür bezahlt haben, das heißt, der hat das für was Besonderes gehalten.
+
+01:56:57.000 --> 01:57:07.000
+Die Leute, die Tempenetsch, Sparisch, Machi, Machi, haben sich damit beschäftigt und sich damit offenbar jahrelang rumgeschlagen,
+
+01:57:07.000 --> 01:57:12.000
+um es dann halt eben zum größten Gelehrten, den sie kannten, Athanasius Kircher zu schicken.
+
+01:57:12.000 --> 01:57:17.000
+Bei dem ist es verschwunden. Der hat es vielleicht für einen besonderen Hoax gehalten.
+
+01:57:17.000 --> 01:57:22.000
+Vielleicht hat er es durchschaut und hat dem gesagt, okay, sei lieber gar nichts zu, ich werde hier genagt.
+
+01:57:22.000 --> 01:57:28.000
+So, und das kann passieren. Das ist halt eben einfach in der Bibliothek, das steht halt irgendwo rum,
+
+01:57:28.000 --> 01:57:34.000
+jemand guckt mal rein, kann es halt nicht lesen, denkt, okay, hier gibt es so viele andere schöne Folianten,
+
+01:57:34.000 --> 01:57:37.000
+so viele schöne andere Bücher, ich beschäftige mich jetzt nicht weiter.
+
+01:57:37.000 --> 01:57:39.000
+Wer weiß, welche Schätze in unseren Bibliotheken liegen.
+
+01:57:39.000 --> 01:57:53.000
+So, und das heißt, es war in Prag, war es famous oder war es was Besonderes. Seit 1912 ist es halt auch wieder.
+
+01:57:53.000 --> 01:58:00.000
+Es war wohl nicht, glaube ich, ziemlich schnell klar, dass da ein Geheimnis drinsteckt.
+
+01:58:00.000 --> 01:58:06.000
+Und es hat da eben seinen Glanz nicht verloren, wie wir halt tatsächlich auch an den Mediensaiten sehen.
+
+01:58:06.000 --> 01:58:12.000
+Und das wird es, glaube ich, in absehbarer Zeit auch nicht. Also ich wüsste nicht, was passieren sollte,
+
+01:58:12.000 --> 01:58:16.000
+weil, wie gesagt, es lohnt sich tatsächlich, sich damit zu beschäftigen.
+
+01:58:16.000 --> 01:58:20.000
+Man darf sich halt nicht drin verlieren, was wir jetzt fast zwei Stunden getan haben.
+
+01:58:20.000 --> 01:58:30.000
+Aber das ist, glaube ich, okay. Und wenn das tatsächlich jemand durchgehört hat, dann halt auch, ja, willkommen im Club.
+
+01:58:30.000 --> 01:58:33.000
+Gibt es ein Woynich Zertifikat?
+
+01:58:33.000 --> 01:58:42.000
+Ja, sehr gut. Also ich muss sagen, also mir geht es ja wahrscheinlich wie, ich habe mich noch nicht viel damit beschäftigt,
+
+01:58:42.000 --> 01:58:45.000
+aber je mehr ich davon höre, desto faszinierender ist es ja.
+
+01:58:45.000 --> 01:58:48.000
+Das ist ja, glaube ich, wahrscheinlich auch das Geheimnis dieses Manuskripts.
+
+01:58:48.000 --> 01:58:51.000
+Wenn man sich damit beschäftigt, dann saugt es einen so ein.
+
+01:58:51.000 --> 01:58:58.000
+Und es hält einen halt, Kennedy Churchill, tatsächlich heißen die beiden Autoren von dem Buch so,
+
+01:58:58.000 --> 01:59:02.000
+ich weiß nicht, ob das Künstlername sind, der Woynich Code heißt, das Buch ist ein populärwissenschaftlicher Buch,
+
+01:59:02.000 --> 01:59:08.000
+gibt es, glaube ich, im Moment nicht, gab es aber 2001 bei dem Verlag.
+
+01:59:08.000 --> 01:59:18.000
+Die schreiben, das Woynich Manuskript hält jedem Forscher einen Spiegel vor, dass er halt eben seine eigenen Vorurteile und Vorahnungen darin gespiegelt sieht.
+
+01:59:18.000 --> 01:59:26.000
+Und sich halt eben genau darin verliert. Und das ist halt, das ist so auf der Fall, das ist auch bei mir, glaube ich,
+
+01:59:26.000 --> 01:59:35.000
+ich bin da nicht ganz frei davon, aber ich versuche halt eben tatsächlich zu sagen, so, ja, ich habe halt eine schöne Theorie, ist halt eben eine von vielen.
+
+01:59:35.000 --> 01:59:46.000
+Es gibt aber viele, die sich da so tief rein verbeißen, dass sie da auch aus ihren, aus ihrer Binnenperspektive nicht mehr richtig rauskommen.
+
+01:59:46.000 --> 01:59:54.000
+Also das will ich jetzt gar nicht Forschern vorhalten, aber schon jetzt halt bei diesen Veröffentlichungen,
+
+01:59:54.000 --> 02:00:01.000
+weil die Karrieren sind erledigt, zumindest halt eben von Conrad Kaurer nicht, weil die haben tatsächlich anders angefangen,
+
+02:00:01.000 --> 02:00:07.000
+aber jetzt von Tschechaier, der wird in der Wissenschaft, glaube ich, keinen Fuß mehr auf dem Boden kriegen.
+
+02:00:07.000 --> 02:00:15.000
+Das ist schade, weil er ist, glaube ich, halt eben noch nicht so alt, aber er ist halt eben auch mit zu großem Selbstbewusstsein an die Sache rangegangen.
+
+02:00:15.000 --> 02:00:22.000
+Meinte so, ja, da haben sich jetzt Leute Hunderte von Jahren mit beschäftigt und ich habe einen halben Nachmittag gebraucht, um das zu entschlüsseln.
+
+02:00:22.000 --> 02:00:29.000
+Das passiert, glaube ich, auch vielen anderen. Das passiert auch Leuten, die nichts mit der Wissenschaft zu tun haben,
+
+02:00:29.000 --> 02:00:38.000
+die damit Geld verdienen wollen und Seiten aufsetzen, dass sie es gelöst haben und eigentlich nur noch Geld brauchen, um halt eben die ganze Lösung aufzuschreiben
+
+02:00:38.000 --> 02:00:44.000
+und dann dementsprechend aber auch auszahlen würden, damit musste ich mich auch mal einen Block rumschlagen.
+
+02:00:44.000 --> 02:00:50.000
+Wollte mich dann tatsächlich auch jemand verklagen, weil ich gesagt habe, ich halte das für Scharlaternerie.
+
+02:00:50.000 --> 02:00:58.000
+Ja, wenn sowas passiert und man, ja, man verliert sich drin, aber wenn man, wenn man sich selber bewusst ist, dann lohnt sich dieses Verlieren auch,
+
+02:00:58.000 --> 02:01:06.000
+weil dieses Verlieren hat eben auch was, was was Schönes hat und das hat man, das gibt nicht, nicht mehr viele Stellen auf der Welt, wo man das kann.
+
+02:01:06.000 --> 02:01:15.000
+Ich finde, das ist ein wunderbares Schlusswort. Dann bedanke ich mich sehr, sehr herzlich bei dir fürs Mitmachen. Das hat mir sehr viel Freude bereitet.
+
+02:01:15.000 --> 02:01:16.000
+Sehr, sehr gerne.
+
+02:01:16.000 --> 02:01:24.000
+Ja, und das war das Interview mit Jürgen Hermes und ich würde sagen, wir, ich hole Richard wieder dazu für den Feedback Hinweis Block.
+
+02:01:24.000 --> 02:01:33.000
+Sehr gut. Für den Feedback Hinweis Block. Also, wer Feedback geben will, zu dieser Folge kann das über unsere E-Mail Adresse machen,
+
+02:01:33.000 --> 02:01:43.000
+feedbacketzeitsprung.fm oder über unseren Twitter Account, twitter.com slash zeitsprung.fm oder direkt auf unserer Website zeitsprung.fm oder auf Facebook,
+
+02:01:43.000 --> 02:01:57.000
+wo wir als zeitsprung.fm zu finden sind und sonst wo auch immer man Bewertungen vergeben kann etc. z.B. auf Apple Podcasts oder auch auf panoptikum.io.
+
+02:01:57.000 --> 02:02:05.000
+Außerdem gibt es die Möglichkeit, uns finanziell zu unterstützen. Wir haben alle Möglichkeiten, die ihr habt, uns ein bisschen was zukommen zu lassen, auf der Webseite zusammengefasst
+
+02:02:05.000 --> 02:02:13.000
+und wir freuen uns über alle, die uns ein bisschen was in den Hut werfen und uns dabei helfen, hier jede Woche eine Geschichte zu erzählen.
+
+02:02:13.000 --> 02:02:26.000
+Wir bedanken uns in dieser Woche bei Katharina, Florian, Andrew, Anu, Martin, Henning, Philipp, Steve, Nadja, Heike, Dennis, Dirk, Oliver, Sebastian und Martin.
+
+02:02:26.000 --> 02:02:28.000
+Vielen, vielen Dank für eure Unterstützung.
+
+02:02:28.000 --> 02:02:30.000
+Ja, vielen herzlichen Dank.
+
+02:02:30.000 --> 02:02:35.000
+Am Ende kommt immer, sagt immer, hat immer einer das letzte Wort, der es immer hat. Weißt du, wer das ist?
+
+02:02:35.000 --> 02:02:44.000
+Ja, ich weiß das. Aber warum vergess ich den Namen? Das ist ja furchtbar. Das ist nicht Branditzki, ne?
+
+02:02:44.000 --> 02:02:45.000
+Ne, aber es ist ähnlich.
+
+02:02:45.000 --> 02:02:58.000
+Ja, ja, ich weiß, aber oh Gott. Darf ich nachgucken und du nimmst dann das? Das ist ja furchtbar. Jetzt habe ich zwei Stunden geredet und vergesse eigentlich das Wichtigste.
+
+02:02:58.000 --> 02:03:01.000
+Kreiski. Bruno Kreiski.
+
+02:03:01.000 --> 02:03:26.000
+Lernen ein bisschen Geschichte, lernen ein bisschen Geschichte, dann werden wir sehen, wie sich der Reporter damals entwickelt hat. Wie der sich damals entwickelt hat.
+
